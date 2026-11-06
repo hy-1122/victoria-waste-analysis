@@ -1,0 +1,7 @@
+series,method,order,MAE,RMSE,MAPE_pct,cv_mae_mean,cv_rmse_mean,AIC,n_years_history,reliability,data_vintage
+Total Waste (kt),derived,sum(4 components),,,,,,,,derived,Melbourne data ends 2019; 2020-2030 are out-of-sample forecasts
+Garbage Collected (kt),arima,"(2, 0, 0)",1.0944,1.1912,2.74,0.5308,0.5308,31.67,10.0,medium,Melbourne data ends 2019; 2020-2030 are out-of-sample forecasts
+Recycling Collected (kt),arima,"(1, 0, 0)",2.0134,2.7075,22.48,0.557,0.557,23.88,10.0,medium,Melbourne data ends 2019; 2020-2030 are out-of-sample forecasts
+Organics GO (kt),arima,"(0, 0, 0)",0.0509,0.051,45.25,0.0737,0.0737,-37.13,10.0,medium,Melbourne data ends 2019; 2020-2030 are out-of-sample forecasts
+Hard Waste (kt),arima,"(1, 0, 0)",0.0656,0.0667,6.05,0.2464,0.2464,0.16,10.0,medium,Melbourne data ends 2019; 2020-2030 are out-of-sample forecasts
+Diversion Rate,derived,(recycling_collected + organics_go) / total_waste,,,,,,,,derived,Melbourne data ends 2019; 2020-2030 are out-of-sample forecasts

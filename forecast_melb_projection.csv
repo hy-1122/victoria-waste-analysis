@@ -1,0 +1,127 @@
+start_year,category,subcategory,state,label,unit,method,actual,fitted,lower_ci,upper_ci,is_forecast,reliability,data_vintage
+2010,Total,All,City of Melbourne,Total Waste (kt),kt,derived,40.965,0.0,,,False,derived,Melbourne data ends 2019; 2020-2030 are out-of-sample forecasts
+2011,Total,All,City of Melbourne,Total Waste (kt),kt,derived,40.646,0.0,,,False,derived,Melbourne data ends 2019; 2020-2030 are out-of-sample forecasts
+2012,Total,All,City of Melbourne,Total Waste (kt),kt,derived,40.08,42.0386,,,False,derived,Melbourne data ends 2019; 2020-2030 are out-of-sample forecasts
+2013,Total,All,City of Melbourne,Total Waste (kt),kt,derived,42.139,41.3495,,,False,derived,Melbourne data ends 2019; 2020-2030 are out-of-sample forecasts
+2014,Total,All,City of Melbourne,Total Waste (kt),kt,derived,44.235,43.1732,,,False,derived,Melbourne data ends 2019; 2020-2030 are out-of-sample forecasts
+2015,Total,All,City of Melbourne,Total Waste (kt),kt,derived,45.277,45.2746,,,False,derived,Melbourne data ends 2019; 2020-2030 are out-of-sample forecasts
+2016,Total,All,City of Melbourne,Total Waste (kt),kt,derived,47.446,46.7764,,,False,derived,Melbourne data ends 2019; 2020-2030 are out-of-sample forecasts
+2017,Total,All,City of Melbourne,Total Waste (kt),kt,derived,49.779,48.6137,,,False,derived,Melbourne data ends 2019; 2020-2030 are out-of-sample forecasts
+2018,Total,All,City of Melbourne,Total Waste (kt),kt,derived,50.608,50.9442,,,False,derived,Melbourne data ends 2019; 2020-2030 are out-of-sample forecasts
+2019,Total,All,City of Melbourne,Total Waste (kt),kt,derived,51.07,52.0092,,,False,derived,Melbourne data ends 2019; 2020-2030 are out-of-sample forecasts
+2020,Total,All,City of Melbourne,Total Waste (kt),kt,derived,,51.9923,48.9327,55.0519,True,derived,Melbourne data ends 2019; 2020-2030 are out-of-sample forecasts
+2021,Total,All,City of Melbourne,Total Waste (kt),kt,derived,,53.5615,49.3953,57.7278,True,derived,Melbourne data ends 2019; 2020-2030 are out-of-sample forecasts
+2022,Total,All,City of Melbourne,Total Waste (kt),kt,derived,,55.0679,49.9881,60.1476,True,derived,Melbourne data ends 2019; 2020-2030 are out-of-sample forecasts
+2023,Total,All,City of Melbourne,Total Waste (kt),kt,derived,,56.6661,50.8069,62.5253,True,derived,Melbourne data ends 2019; 2020-2030 are out-of-sample forecasts
+2024,Total,All,City of Melbourne,Total Waste (kt),kt,derived,,58.3254,51.7643,64.8866,True,derived,Melbourne data ends 2019; 2020-2030 are out-of-sample forecasts
+2025,Total,All,City of Melbourne,Total Waste (kt),kt,derived,,60.0572,52.849,67.2655,True,derived,Melbourne data ends 2019; 2020-2030 are out-of-sample forecasts
+2026,Total,All,City of Melbourne,Total Waste (kt),kt,derived,,61.8635,54.0475,69.6796,True,derived,Melbourne data ends 2019; 2020-2030 are out-of-sample forecasts
+2027,Total,All,City of Melbourne,Total Waste (kt),kt,derived,,63.7489,55.3542,72.1436,True,derived,Melbourne data ends 2019; 2020-2030 are out-of-sample forecasts
+2028,Total,All,City of Melbourne,Total Waste (kt),kt,derived,,65.7177,56.7662,74.6692,True,derived,Melbourne data ends 2019; 2020-2030 are out-of-sample forecasts
+2029,Total,All,City of Melbourne,Total Waste (kt),kt,derived,,67.7748,58.2826,77.267,True,derived,Melbourne data ends 2019; 2020-2030 are out-of-sample forecasts
+2030,Total,All,City of Melbourne,Total Waste (kt),kt,derived,,69.9253,59.9039,79.9466,True,derived,Melbourne data ends 2019; 2020-2030 are out-of-sample forecasts
+2010,Garbage,Collected,City of Melbourne,Garbage Collected (kt),kt,arima,31.896,,,,False,medium,Melbourne data ends 2019; 2020-2030 are out-of-sample forecasts
+2011,Garbage,Collected,City of Melbourne,Garbage Collected (kt),kt,arima,31.353,,,,False,medium,Melbourne data ends 2019; 2020-2030 are out-of-sample forecasts
+2012,Garbage,Collected,City of Melbourne,Garbage Collected (kt),kt,arima,31.417,32.7443,30.7989,34.6898,False,medium,Melbourne data ends 2019; 2020-2030 are out-of-sample forecasts
+2013,Garbage,Collected,City of Melbourne,Garbage Collected (kt),kt,arima,32.793,32.6701,30.7247,34.6156,False,medium,Melbourne data ends 2019; 2020-2030 are out-of-sample forecasts
+2014,Garbage,Collected,City of Melbourne,Garbage Collected (kt),kt,arima,34.582,33.7973,31.8519,35.7428,False,medium,Melbourne data ends 2019; 2020-2030 are out-of-sample forecasts
+2015,Garbage,Collected,City of Melbourne,Garbage Collected (kt),kt,arima,34.413,35.5627,33.6173,37.5082,False,medium,Melbourne data ends 2019; 2020-2030 are out-of-sample forecasts
+2016,Garbage,Collected,City of Melbourne,Garbage Collected (kt),kt,arima,35.751,35.8411,33.8956,37.7865,False,medium,Melbourne data ends 2019; 2020-2030 are out-of-sample forecasts
+2017,Garbage,Collected,City of Melbourne,Garbage Collected (kt),kt,arima,37.174,36.8835,34.9381,38.829,False,medium,Melbourne data ends 2019; 2020-2030 are out-of-sample forecasts
+2018,Garbage,Collected,City of Melbourne,Garbage Collected (kt),kt,arima,37.63,38.3442,36.3988,40.2897,False,medium,Melbourne data ends 2019; 2020-2030 are out-of-sample forecasts
+2019,Garbage,Collected,City of Melbourne,Garbage Collected (kt),kt,arima,40.931,39.0429,37.0975,40.9884,False,medium,Melbourne data ends 2019; 2020-2030 are out-of-sample forecasts
+2020,Garbage,Collected,City of Melbourne,Garbage Collected (kt),kt,arima,,41.8172,39.8718,43.7627,True,medium,Melbourne data ends 2019; 2020-2030 are out-of-sample forecasts
+2021,Garbage,Collected,City of Melbourne,Garbage Collected (kt),kt,arima,,43.2994,40.7977,45.801,True,medium,Melbourne data ends 2019; 2020-2030 are out-of-sample forecasts
+2022,Garbage,Collected,City of Melbourne,Garbage Collected (kt),kt,arima,,44.7031,41.6657,47.7404,True,medium,Melbourne data ends 2019; 2020-2030 are out-of-sample forecasts
+2023,Garbage,Collected,City of Melbourne,Garbage Collected (kt),kt,arima,,46.1816,42.6725,49.6908,True,medium,Melbourne data ends 2019; 2020-2030 are out-of-sample forecasts
+2024,Garbage,Collected,City of Melbourne,Garbage Collected (kt),kt,arima,,47.7025,43.7494,51.6556,True,medium,Melbourne data ends 2019; 2020-2030 are out-of-sample forecasts
+2025,Garbage,Collected,City of Melbourne,Garbage Collected (kt),kt,arima,,49.275,44.898,53.652,True,medium,Melbourne data ends 2019; 2020-2030 are out-of-sample forecasts
+2026,Garbage,Collected,City of Melbourne,Garbage Collected (kt),kt,arima,,50.8989,46.1107,55.6871,True,medium,Melbourne data ends 2019; 2020-2030 are out-of-sample forecasts
+2027,Garbage,Collected,City of Melbourne,Garbage Collected (kt),kt,arima,,52.5765,47.3853,57.7676,True,medium,Melbourne data ends 2019; 2020-2030 are out-of-sample forecasts
+2028,Garbage,Collected,City of Melbourne,Garbage Collected (kt),kt,arima,,54.3093,48.7202,59.8984,True,medium,Melbourne data ends 2019; 2020-2030 are out-of-sample forecasts
+2029,Garbage,Collected,City of Melbourne,Garbage Collected (kt),kt,arima,,56.0992,50.1145,62.0838,True,medium,Melbourne data ends 2019; 2020-2030 are out-of-sample forecasts
+2030,Garbage,Collected,City of Melbourne,Garbage Collected (kt),kt,arima,,57.9481,51.5684,64.3278,True,medium,Melbourne data ends 2019; 2020-2030 are out-of-sample forecasts
+2010,Recycling,Collected,City of Melbourne,Recycling Collected (kt),kt,arima,8.707,,,,False,medium,Melbourne data ends 2019; 2020-2030 are out-of-sample forecasts
+2011,Recycling,Collected,City of Melbourne,Recycling Collected (kt),kt,arima,8.856,,,,False,medium,Melbourne data ends 2019; 2020-2030 are out-of-sample forecasts
+2012,Recycling,Collected,City of Melbourne,Recycling Collected (kt),kt,arima,8.185,8.8017,6.4569,11.1465,False,medium,Melbourne data ends 2019; 2020-2030 are out-of-sample forecasts
+2013,Recycling,Collected,City of Melbourne,Recycling Collected (kt),kt,arima,8.741,8.1348,5.79,10.4796,False,medium,Melbourne data ends 2019; 2020-2030 are out-of-sample forecasts
+2014,Recycling,Collected,City of Melbourne,Recycling Collected (kt),kt,arima,8.756,8.6874,6.3426,11.0322,False,medium,Melbourne data ends 2019; 2020-2030 are out-of-sample forecasts
+2015,Recycling,Collected,City of Melbourne,Recycling Collected (kt),kt,arima,9.782,8.7023,6.3575,11.0471,False,medium,Melbourne data ends 2019; 2020-2030 are out-of-sample forecasts
+2016,Recycling,Collected,City of Melbourne,Recycling Collected (kt),kt,arima,10.789,9.7221,7.3773,12.0669,False,medium,Melbourne data ends 2019; 2020-2030 are out-of-sample forecasts
+2017,Recycling,Collected,City of Melbourne,Recycling Collected (kt),kt,arima,11.565,10.7229,8.3781,13.0677,False,medium,Melbourne data ends 2019; 2020-2030 are out-of-sample forecasts
+2018,Recycling,Collected,City of Melbourne,Recycling Collected (kt),kt,arima,11.899,11.4941,9.1493,13.8389,False,medium,Melbourne data ends 2019; 2020-2030 are out-of-sample forecasts
+2019,Recycling,Collected,City of Melbourne,Recycling Collected (kt),kt,arima,8.841,11.8261,9.4813,14.1709,False,medium,Melbourne data ends 2019; 2020-2030 are out-of-sample forecasts
+2020,Recycling,Collected,City of Melbourne,Recycling Collected (kt),kt,arima,,8.7868,6.442,11.1316,True,medium,Melbourne data ends 2019; 2020-2030 are out-of-sample forecasts
+2021,Recycling,Collected,City of Melbourne,Recycling Collected (kt),kt,arima,,8.733,5.4271,12.0389,True,medium,Melbourne data ends 2019; 2020-2030 are out-of-sample forecasts
+2022,Recycling,Collected,City of Melbourne,Recycling Collected (kt),kt,arima,,8.6794,4.6429,12.716,True,medium,Melbourne data ends 2019; 2020-2030 are out-of-sample forecasts
+2023,Recycling,Collected,City of Melbourne,Recycling Collected (kt),kt,arima,,8.6263,3.9795,13.273,True,medium,Melbourne data ends 2019; 2020-2030 are out-of-sample forecasts
+2024,Recycling,Collected,City of Melbourne,Recycling Collected (kt),kt,arima,,8.5734,3.3939,13.7528,True,medium,Melbourne data ends 2019; 2020-2030 are out-of-sample forecasts
+2025,Recycling,Collected,City of Melbourne,Recycling Collected (kt),kt,arima,,8.5208,2.8643,14.1774,True,medium,Melbourne data ends 2019; 2020-2030 are out-of-sample forecasts
+2026,Recycling,Collected,City of Melbourne,Recycling Collected (kt),kt,arima,,8.4686,2.3773,14.56,True,medium,Melbourne data ends 2019; 2020-2030 are out-of-sample forecasts
+2027,Recycling,Collected,City of Melbourne,Recycling Collected (kt),kt,arima,,8.4167,1.9245,14.9089,True,medium,Melbourne data ends 2019; 2020-2030 are out-of-sample forecasts
+2028,Recycling,Collected,City of Melbourne,Recycling Collected (kt),kt,arima,,8.3651,1.4999,15.2304,True,medium,Melbourne data ends 2019; 2020-2030 are out-of-sample forecasts
+2029,Recycling,Collected,City of Melbourne,Recycling Collected (kt),kt,arima,,8.3139,1.099,15.5287,True,medium,Melbourne data ends 2019; 2020-2030 are out-of-sample forecasts
+2030,Recycling,Collected,City of Melbourne,Recycling Collected (kt),kt,arima,,8.2629,0.7187,15.8072,True,medium,Melbourne data ends 2019; 2020-2030 are out-of-sample forecasts
+2010,Organics,GO,City of Melbourne,Organics GO (kt),kt,arima,0.046,,,,False,medium,Melbourne data ends 2019; 2020-2030 are out-of-sample forecasts
+2011,Organics,GO,City of Melbourne,Organics GO (kt),kt,arima,0.058,,,,False,medium,Melbourne data ends 2019; 2020-2030 are out-of-sample forecasts
+2012,Organics,GO,City of Melbourne,Organics GO (kt),kt,arima,0.052,0.0729,0.0199,0.1259,False,medium,Melbourne data ends 2019; 2020-2030 are out-of-sample forecasts
+2013,Organics,GO,City of Melbourne,Organics GO (kt),kt,arima,0.049,0.0729,0.0199,0.1259,False,medium,Melbourne data ends 2019; 2020-2030 are out-of-sample forecasts
+2014,Organics,GO,City of Melbourne,Organics GO (kt),kt,arima,0.051,0.0729,0.0199,0.1259,False,medium,Melbourne data ends 2019; 2020-2030 are out-of-sample forecasts
+2015,Organics,GO,City of Melbourne,Organics GO (kt),kt,arima,0.052,0.0729,0.0199,0.1259,False,medium,Melbourne data ends 2019; 2020-2030 are out-of-sample forecasts
+2016,Organics,GO,City of Melbourne,Organics GO (kt),kt,arima,0.062,0.0729,0.0199,0.1259,False,medium,Melbourne data ends 2019; 2020-2030 are out-of-sample forecasts
+2017,Organics,GO,City of Melbourne,Organics GO (kt),kt,arima,0.107,0.0729,0.0199,0.1259,False,medium,Melbourne data ends 2019; 2020-2030 are out-of-sample forecasts
+2018,Organics,GO,City of Melbourne,Organics GO (kt),kt,arima,0.115,0.0729,0.0199,0.1259,False,medium,Melbourne data ends 2019; 2020-2030 are out-of-sample forecasts
+2019,Organics,GO,City of Melbourne,Organics GO (kt),kt,arima,0.11,0.0729,0.0199,0.1259,False,medium,Melbourne data ends 2019; 2020-2030 are out-of-sample forecasts
+2020,Organics,GO,City of Melbourne,Organics GO (kt),kt,arima,,0.0729,0.0199,0.1259,True,medium,Melbourne data ends 2019; 2020-2030 are out-of-sample forecasts
+2021,Organics,GO,City of Melbourne,Organics GO (kt),kt,arima,,0.0729,0.0199,0.1259,True,medium,Melbourne data ends 2019; 2020-2030 are out-of-sample forecasts
+2022,Organics,GO,City of Melbourne,Organics GO (kt),kt,arima,,0.0729,0.0199,0.1259,True,medium,Melbourne data ends 2019; 2020-2030 are out-of-sample forecasts
+2023,Organics,GO,City of Melbourne,Organics GO (kt),kt,arima,,0.0729,0.0199,0.1259,True,medium,Melbourne data ends 2019; 2020-2030 are out-of-sample forecasts
+2024,Organics,GO,City of Melbourne,Organics GO (kt),kt,arima,,0.0729,0.0199,0.1259,True,medium,Melbourne data ends 2019; 2020-2030 are out-of-sample forecasts
+2025,Organics,GO,City of Melbourne,Organics GO (kt),kt,arima,,0.0729,0.0199,0.1259,True,medium,Melbourne data ends 2019; 2020-2030 are out-of-sample forecasts
+2026,Organics,GO,City of Melbourne,Organics GO (kt),kt,arima,,0.0729,0.0199,0.1259,True,medium,Melbourne data ends 2019; 2020-2030 are out-of-sample forecasts
+2027,Organics,GO,City of Melbourne,Organics GO (kt),kt,arima,,0.0729,0.0199,0.1259,True,medium,Melbourne data ends 2019; 2020-2030 are out-of-sample forecasts
+2028,Organics,GO,City of Melbourne,Organics GO (kt),kt,arima,,0.0729,0.0199,0.1259,True,medium,Melbourne data ends 2019; 2020-2030 are out-of-sample forecasts
+2029,Organics,GO,City of Melbourne,Organics GO (kt),kt,arima,,0.0729,0.0199,0.1259,True,medium,Melbourne data ends 2019; 2020-2030 are out-of-sample forecasts
+2030,Organics,GO,City of Melbourne,Organics GO (kt),kt,arima,,0.0729,0.0199,0.1259,True,medium,Melbourne data ends 2019; 2020-2030 are out-of-sample forecasts
+2010,Hard Waste,Collected,City of Melbourne,Hard Waste (kt),kt,arima,0.316,,,,False,medium,Melbourne data ends 2019; 2020-2030 are out-of-sample forecasts
+2011,Hard Waste,Collected,City of Melbourne,Hard Waste (kt),kt,arima,0.379,,,,False,medium,Melbourne data ends 2019; 2020-2030 are out-of-sample forecasts
+2012,Hard Waste,Collected,City of Melbourne,Hard Waste (kt),kt,arima,0.426,0.4196,0.1448,0.6945,False,medium,Melbourne data ends 2019; 2020-2030 are out-of-sample forecasts
+2013,Hard Waste,Collected,City of Melbourne,Hard Waste (kt),kt,arima,0.556,0.4717,0.1968,0.7465,False,medium,Melbourne data ends 2019; 2020-2030 are out-of-sample forecasts
+2014,Hard Waste,Collected,City of Melbourne,Hard Waste (kt),kt,arima,0.846,0.6156,0.3408,0.8904,False,medium,Melbourne data ends 2019; 2020-2030 are out-of-sample forecasts
+2015,Hard Waste,Collected,City of Melbourne,Hard Waste (kt),kt,arima,1.03,0.9367,0.6618,1.2115,False,medium,Melbourne data ends 2019; 2020-2030 are out-of-sample forecasts
+2016,Hard Waste,Collected,City of Melbourne,Hard Waste (kt),kt,arima,0.844,1.1404,0.8656,1.4152,False,medium,Melbourne data ends 2019; 2020-2030 are out-of-sample forecasts
+2017,Hard Waste,Collected,City of Melbourne,Hard Waste (kt),kt,arima,0.933,0.9345,0.6596,1.2093,False,medium,Melbourne data ends 2019; 2020-2030 are out-of-sample forecasts
+2018,Hard Waste,Collected,City of Melbourne,Hard Waste (kt),kt,arima,0.964,1.033,0.7582,1.3079,False,medium,Melbourne data ends 2019; 2020-2030 are out-of-sample forecasts
+2019,Hard Waste,Collected,City of Melbourne,Hard Waste (kt),kt,arima,1.188,1.0673,0.7925,1.3422,False,medium,Melbourne data ends 2019; 2020-2030 are out-of-sample forecasts
+2020,Hard Waste,Collected,City of Melbourne,Hard Waste (kt),kt,arima,,1.3153,1.0405,1.5902,True,medium,Melbourne data ends 2019; 2020-2030 are out-of-sample forecasts
+2021,Hard Waste,Collected,City of Melbourne,Hard Waste (kt),kt,arima,,1.4563,1.0463,1.8664,True,medium,Melbourne data ends 2019; 2020-2030 are out-of-sample forecasts
+2022,Hard Waste,Collected,City of Melbourne,Hard Waste (kt),kt,arima,,1.6124,1.0817,2.1432,True,medium,Melbourne data ends 2019; 2020-2030 are out-of-sample forecasts
+2023,Hard Waste,Collected,City of Melbourne,Hard Waste (kt),kt,arima,,1.7853,1.1366,2.434,True,medium,Melbourne data ends 2019; 2020-2030 are out-of-sample forecasts
+2024,Hard Waste,Collected,City of Melbourne,Hard Waste (kt),kt,arima,,1.9766,1.2076,2.7457,True,medium,Melbourne data ends 2019; 2020-2030 are out-of-sample forecasts
+2025,Hard Waste,Collected,City of Melbourne,Hard Waste (kt),kt,arima,,2.1885,1.2938,3.0832,True,medium,Melbourne data ends 2019; 2020-2030 are out-of-sample forecasts
+2026,Hard Waste,Collected,City of Melbourne,Hard Waste (kt),kt,arima,,2.4231,1.3951,3.4511,True,medium,Melbourne data ends 2019; 2020-2030 are out-of-sample forecasts
+2027,Hard Waste,Collected,City of Melbourne,Hard Waste (kt),kt,arima,,2.6828,1.5119,3.8538,True,medium,Melbourne data ends 2019; 2020-2030 are out-of-sample forecasts
+2028,Hard Waste,Collected,City of Melbourne,Hard Waste (kt),kt,arima,,2.9704,1.6451,4.2957,True,medium,Melbourne data ends 2019; 2020-2030 are out-of-sample forecasts
+2029,Hard Waste,Collected,City of Melbourne,Hard Waste (kt),kt,arima,,3.2888,1.796,4.7817,True,medium,Melbourne data ends 2019; 2020-2030 are out-of-sample forecasts
+2030,Hard Waste,Collected,City of Melbourne,Hard Waste (kt),kt,arima,,3.6413,1.9658,5.3169,True,medium,Melbourne data ends 2019; 2020-2030 are out-of-sample forecasts
+2010,Diversion Rate,All,City of Melbourne,Diversion Rate,%,derived,0.2137,,,,False,derived,Melbourne data ends 2019; 2020-2030 are out-of-sample forecasts
+2011,Diversion Rate,All,City of Melbourne,Diversion Rate,%,derived,0.2193,,,,False,derived,Melbourne data ends 2019; 2020-2030 are out-of-sample forecasts
+2012,Diversion Rate,All,City of Melbourne,Diversion Rate,%,derived,0.2055,0.2187,,,False,derived,Melbourne data ends 2019; 2020-2030 are out-of-sample forecasts
+2013,Diversion Rate,All,City of Melbourne,Diversion Rate,%,derived,0.2086,0.2062,,,False,derived,Melbourne data ends 2019; 2020-2030 are out-of-sample forecasts
+2014,Diversion Rate,All,City of Melbourne,Diversion Rate,%,derived,0.1991,0.2103,,,False,derived,Melbourne data ends 2019; 2020-2030 are out-of-sample forecasts
+2015,Diversion Rate,All,City of Melbourne,Diversion Rate,%,derived,0.2199,0.1965,,,False,derived,Melbourne data ends 2019; 2020-2030 are out-of-sample forecasts
+2016,Diversion Rate,All,City of Melbourne,Diversion Rate,%,derived,0.2351,0.2159,,,False,derived,Melbourne data ends 2019; 2020-2030 are out-of-sample forecasts
+2017,Diversion Rate,All,City of Melbourne,Diversion Rate,%,derived,0.2389,0.2266,,,False,derived,Melbourne data ends 2019; 2020-2030 are out-of-sample forecasts
+2018,Diversion Rate,All,City of Melbourne,Diversion Rate,%,derived,0.2413,0.231,,,False,derived,Melbourne data ends 2019; 2020-2030 are out-of-sample forecasts
+2019,Diversion Rate,All,City of Melbourne,Diversion Rate,%,derived,0.1815,0.2349,,,False,derived,Melbourne data ends 2019; 2020-2030 are out-of-sample forecasts
+2020,Diversion Rate,All,City of Melbourne,Diversion Rate,%,derived,,0.1766,0.1304,0.2227,True,derived,Melbourne data ends 2019; 2020-2030 are out-of-sample forecasts
+2021,Diversion Rate,All,City of Melbourne,Diversion Rate,%,derived,,0.1704,0.1077,0.2331,True,derived,Melbourne data ends 2019; 2020-2030 are out-of-sample forecasts
+2022,Diversion Rate,All,City of Melbourne,Diversion Rate,%,derived,,0.1647,0.0905,0.239,True,derived,Melbourne data ends 2019; 2020-2030 are out-of-sample forecasts
+2023,Diversion Rate,All,City of Melbourne,Diversion Rate,%,derived,,0.1592,0.0762,0.2421,True,derived,Melbourne data ends 2019; 2020-2030 are out-of-sample forecasts
+2024,Diversion Rate,All,City of Melbourne,Diversion Rate,%,derived,,0.1537,0.064,0.2434,True,derived,Melbourne data ends 2019; 2020-2030 are out-of-sample forecasts
+2025,Diversion Rate,All,City of Melbourne,Diversion Rate,%,derived,,0.1484,0.0534,0.2435,True,derived,Melbourne data ends 2019; 2020-2030 are out-of-sample forecasts
+2026,Diversion Rate,All,City of Melbourne,Diversion Rate,%,derived,,0.1432,0.0439,0.2426,True,derived,Melbourne data ends 2019; 2020-2030 are out-of-sample forecasts
+2027,Diversion Rate,All,City of Melbourne,Diversion Rate,%,derived,,0.1382,0.0355,0.2409,True,derived,Melbourne data ends 2019; 2020-2030 are out-of-sample forecasts
+2028,Diversion Rate,All,City of Melbourne,Diversion Rate,%,derived,,0.1333,0.028,0.2385,True,derived,Melbourne data ends 2019; 2020-2030 are out-of-sample forecasts
+2029,Diversion Rate,All,City of Melbourne,Diversion Rate,%,derived,,0.1285,0.0212,0.2357,True,derived,Melbourne data ends 2019; 2020-2030 are out-of-sample forecasts
+2030,Diversion Rate,All,City of Melbourne,Diversion Rate,%,derived,,0.1238,0.0151,0.2324,True,derived,Melbourne data ends 2019; 2020-2030 are out-of-sample forecasts

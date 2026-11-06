@@ -1,0 +1,34 @@
+material_type,material_name,material_id
+"Aggregate, masonry and soils",Asphalt,1
+"Aggregate, masonry and soils",Bricks,2
+"Aggregate, masonry and soils",Concrete,3
+"Aggregate, masonry and soils",Plaster,4
+"Aggregate, masonry and soils",Rubble,5
+"Aggregate, masonry and soils",Soil and natural materials,6
+Glass,Container glass,7
+Glass,Other glass,8
+Metals,Aluminium,9
+Metals,Ferrous,10
+Metals,Other metals,11
+Organics,Food organics,12
+Organics,Garden organics,13
+Organics,Other organics,14
+Organics,Wood /timber,15
+Paper and cardboard,Cardboard,16
+Paper and cardboard,Liquidpaperboard,17
+Paper and cardboard,Newsprint and magazines,18
+Paper and cardboard,Other paper,19
+Paper and cardboard,Printing and writing paper,20
+Plastic,HDPE (2),21
+Plastic,LDPE (4),22
+Plastic,Other plastics (7),23
+Plastic,PET (1),24
+Plastic,PP (5),25
+Plastic,PS (6),26
+Plastic,PVC (3),27
+Textiles,Clothing,28
+Textiles,Other textiles,29
+Tyres and rubber,Offroad tyres,30
+Tyres and rubber,Other rubber,31
+Tyres and rubber,Passenger tyres,32
+Tyres and rubber,Truck tyres,33

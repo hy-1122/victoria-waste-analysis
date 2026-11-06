@@ -1,0 +1,531 @@
+year,is_forecast,reliability,value,unit,lower_ci,upper_ci,category
+2015,False,low,12325280.0,tonnes,,,Total Waste Generation (Full)
+2016,False,low,12619180.0,tonnes,,,Total Waste Generation (Full)
+2017,False,low,14042940.0,tonnes,,,Total Waste Generation (Full)
+2018,False,low,14758030.0,tonnes,,,Total Waste Generation (Full)
+2019,False,low,15494050.0,tonnes,,,Total Waste Generation (Full)
+2020,False,low,15810430.0,tonnes,,,Total Waste Generation (Full)
+2021,False,low,14434800.0,tonnes,,,Total Waste Generation (Full)
+2022,False,low,14463190.0,tonnes,,,Total Waste Generation (Full)
+2023,False,low,14230340.0,tonnes,,,Total Waste Generation (Full)
+2024,True,low,14427958.724912193,tonnes,12894207.598756138,15961709.851068247,Total Waste Generation (Full)
+2025,True,low,14628321.808738923,tonnes,12444157.275577964,16812486.341899883,Total Waste Generation (Full)
+2026,True,low,14831467.362776859,tonnes,12137699.27302808,17525235.452525638,Total Waste Generation (Full)
+2027,True,low,15037434.027579578,tonnes,11905067.6116073,18169800.443551857,Total Waste Generation (Full)
+2028,True,low,15246260.980307445,tonnes,11719432.72542178,18773089.23519311,Total Waste Generation (Full)
+2029,True,low,15457987.942179535,tonnes,11567129.45998638,19348846.424372688,Total Waste Generation (Full)
+2030,True,low,15672655.18602905,tonnes,11440095.616605883,19905214.755452216,Total Waste Generation (Full)
+2001,False,derived,1620189.9999999998,tonnes,,,Total Waste Generation (MSW)
+2002,False,derived,1636199.9999999998,tonnes,,,Total Waste Generation (MSW)
+2003,False,derived,1730205.0,tonnes,,,Total Waste Generation (MSW)
+2004,False,derived,1828129.9999999998,tonnes,,,Total Waste Generation (MSW)
+2005,False,derived,1869500.0,tonnes,,,Total Waste Generation (MSW)
+2006,False,derived,1850520.0,tonnes,,,Total Waste Generation (MSW)
+2007,False,derived,1934760.0,tonnes,,,Total Waste Generation (MSW)
+2008,False,derived,1971220.0,tonnes,,,Total Waste Generation (MSW)
+2009,False,derived,2071000.0,tonnes,,,Total Waste Generation (MSW)
+2010,False,derived,2196490.0000000005,tonnes,,,Total Waste Generation (MSW)
+2011,False,derived,2330879.9999999995,tonnes,,,Total Waste Generation (MSW)
+2012,False,derived,2292970.0000000005,tonnes,,,Total Waste Generation (MSW)
+2013,False,derived,2311890.0000000005,tonnes,,,Total Waste Generation (MSW)
+2014,False,derived,2399500.0,tonnes,,,Total Waste Generation (MSW)
+2015,False,derived,2423790.0,tonnes,,,Total Waste Generation (MSW)
+2016,False,derived,2550350.0,tonnes,,,Total Waste Generation (MSW)
+2017,False,derived,2563160.0,tonnes,,,Total Waste Generation (MSW)
+2018,False,derived,2482020.0,tonnes,,,Total Waste Generation (MSW)
+2019,False,derived,2685089.9999999995,tonnes,,,Total Waste Generation (MSW)
+2020,False,derived,2793310.0,tonnes,,,Total Waste Generation (MSW)
+2021,False,derived,2548310.0,tonnes,,,Total Waste Generation (MSW)
+2022,False,derived,2600360.0,tonnes,,,Total Waste Generation (MSW)
+2023,False,derived,2485950.0,tonnes,,,Total Waste Generation (MSW)
+2024,True,derived,2472421.203720945,tonnes,2315743.521055894,2637899.427047256,Total Waste Generation (MSW)
+2025,True,derived,2518761.9882548144,tonnes,2300783.7442704206,2760060.278387785,Total Waste Generation (MSW)
+2026,True,derived,2573995.6613542563,tonnes,2302009.61487447,2876401.299832933,Total Waste Generation (MSW)
+2027,True,derived,2640330.3824179573,tonnes,2319944.9954494014,2995518.6382207316,Total Waste Generation (MSW)
+2028,True,derived,2675556.813036482,tonnes,2311723.388547818,3077756.560514871,Total Waste Generation (MSW)
+2029,True,derived,2702859.4929773426,tonnes,2299583.5679984656,3147718.2604343942,Total Waste Generation (MSW)
+2030,True,derived,2728626.211591773,tonnes,2289085.951440232,3212714.495718986,Total Waste Generation (MSW)
+2015,False,derived,0.6642039775161295,%,,,Diversion Rate
+2016,False,derived,0.667225604199322,%,,,Diversion Rate
+2017,False,derived,0.6871865862846385,%,,,Diversion Rate
+2018,False,derived,0.6926242865748342,%,,,Diversion Rate
+2019,False,derived,0.6925284222007803,%,,,Diversion Rate
+2020,False,derived,0.7032402028281333,%,,,Diversion Rate
+2021,False,derived,0.6865214620223348,%,,,Diversion Rate
+2022,False,derived,0.687658116916116,%,,,Diversion Rate
+2023,False,derived,0.6953403783746559,%,,,Diversion Rate
+2024,True,derived,0.7067668684829698,%,0.5253092480052624,0.9313928384115002,Diversion Rate
+2025,True,derived,0.7152138095706598,%,0.4623916414723796,1.0567852919902627,Diversion Rate
+2026,True,derived,0.7220994540432918,%,0.41721504351409316,1.1623122950552682,Diversion Rate
+2027,True,derived,0.7281437829414338,%,0.38182154931710066,1.2567091031403765,Diversion Rate
+2028,True,derived,0.7337127566339074,%,0.35294371149819026,1.343657916080593,Diversion Rate
+2029,True,derived,0.7389928396875409,%,0.3287758145227184,1.4251809080440028,Diversion Rate
+2030,True,derived,0.7440794799571959,%,0.3081776578506004,1.5025276321500853,Diversion Rate
+2015,False,derived,2098.9578676775495,kg/person,,,Waste Per Capita (Full)
+2016,False,derived,2061.167738832098,kg/person,,,Waste Per Capita (Full)
+2017,False,derived,2215.494041663393,kg/person,,,Waste Per Capita (Full)
+2018,False,derived,2267.7932977762675,kg/person,,,Waste Per Capita (Full)
+2019,False,derived,2340.1816225196817,kg/person,,,Waste Per Capita (Full)
+2020,False,derived,2355.12993230638,kg/person,,,Waste Per Capita (Full)
+2021,False,derived,2264.2791563117794,kg/person,,,Waste Per Capita (Full)
+2022,False,derived,2237.0603158477934,kg/person,,,Waste Per Capita (Full)
+2023,False,derived,2074.663957664454,kg/person,,,Waste Per Capita (Full)
+2024,True,derived,2075.1394085335523,kg/person,1854.5435872221412,2295.7352298449637,Waste Per Capita (Full)
+2025,True,derived,2071.9530062754834,kg/person,1762.588314286029,2381.317698264938,Waste Per Capita (Full)
+2026,True,derived,2065.196576370509,kg/person,1690.1048541281507,2440.288298612868,Waste Per Capita (Full)
+2027,True,derived,2058.592844153342,kg/person,1629.778521353304,2487.4071669533796,Waste Per Capita (Full)
+2028,True,derived,2052.1744897658796,kg/person,1577.4569846798606,2526.891994851899,Waste Per Capita (Full)
+2029,True,derived,2046.4000107733993,kg/person,1531.310151105985,2561.4898704408142,Waste Per Capita (Full)
+2030,True,derived,2041.2187548837428,kg/person,1489.9669170987363,2592.4705926687493,Waste Per Capita (Full)
+2001,False,derived,339.4017676987739,kg/person,,,Waste Per Capita (Municipal)
+2002,False,derived,337.2702833177567,kg/person,,,Waste Per Capita (Municipal)
+2003,False,derived,352.51558321377064,kg/person,,,Waste Per Capita (Municipal)
+2004,False,derived,366.82316407828586,kg/person,,,Waste Per Capita (Municipal)
+2005,False,derived,370.2089427985103,kg/person,,,Waste Per Capita (Municipal)
+2006,False,derived,363.0634018977191,kg/person,,,Waste Per Capita (Municipal)
+2007,False,derived,372.52578978043664,kg/person,,,Waste Per Capita (Municipal)
+2008,False,derived,371.03871905602927,kg/person,,,Waste Per Capita (Municipal)
+2009,False,derived,383.6396491855299,kg/person,,,Waste Per Capita (Municipal)
+2010,False,derived,396.43919634649797,kg/person,,,Waste Per Capita (Municipal)
+2011,False,derived,420.2493066701379,kg/person,,,Waste Per Capita (Municipal)
+2012,False,derived,404.5725589999076,kg/person,,,Waste Per Capita (Municipal)
+2013,False,derived,408.6291307397936,kg/person,,,Waste Per Capita (Municipal)
+2014,False,derived,408.81514144288315,kg/person,,,Waste Per Capita (Municipal)
+2015,False,derived,412.7640986734717,kg/person,,,Waste Per Capita (Municipal)
+2016,False,derived,416.56424131603166,kg/person,,,Waste Per Capita (Municipal)
+2017,False,derived,404.37869191422465,kg/person,,,Waste Per Capita (Municipal)
+2018,False,derived,381.3997072066292,kg/person,,,Waste Per Capita (Municipal)
+2019,False,derived,405.5491154870013,kg/person,,,Waste Per Capita (Municipal)
+2020,False,derived,416.09292038298344,kg/person,,,Waste Per Capita (Municipal)
+2021,False,derived,399.7343376299547,kg/person,,,Waste Per Capita (Municipal)
+2022,False,derived,402.2046424694669,kg/person,,,Waste Per Capita (Municipal)
+2023,False,derived,362.43061413542813,kg/person,,,Waste Per Capita (Municipal)
+2024,True,derived,355.60253339763557,kg/person,333.0679503748427,379.4028775090742,Waste Per Capita (Municipal)
+2025,True,derived,356.75701846669136,kg/person,325.88261716275605,390.93446713011,Waste Per Capita (Municipal)
+2026,True,derived,358.414100061512,kg/person,320.5416065130761,400.5223469386014,Waste Per Capita (Municipal)
+2027,True,derived,361.4556327547286,kg/person,317.5955523862877,410.0801520963832,Waste Per Capita (Municipal)
+2028,True,derived,360.13481893854106,kg/person,311.16217750047355,414.27163731201125,Waste Per Capita (Municipal)
+2029,True,derived,357.8170533084233,kg/person,304.4295192834054,416.70951653985685,Waste Per Capita (Municipal)
+2030,True,derived,355.3783919864119,kg/person,298.1323279405706,418.42642519145534,Waste Per Capita (Municipal)
+2015,False,low,4138779.9999999995,tonnes,,,Disposal (Full)
+2016,False,low,4199340.0,tonnes,,,Disposal (Full)
+2017,False,low,4392820.0,tonnes,,,Disposal (Full)
+2018,False,low,4536260.0,tonnes,,,Disposal (Full)
+2019,False,low,4763980.0,tonnes,,,Disposal (Full)
+2020,False,low,4691900.0,tonnes,,,Disposal (Full)
+2021,False,low,4525000.0,tonnes,,,Disposal (Full)
+2022,False,low,4517460.0,tonnes,,,Disposal (Full)
+2023,False,low,4335410.0,tonnes,,,Disposal (Full)
+2024,True,low,4230755.518304461,tonnes,3952137.2365956325,4509373.800013288,Disposal (Full)
+2025,True,low,4165944.0402851934,tonnes,3661683.9618554716,4670204.118714915,Disposal (Full)
+2026,True,low,4121672.8774547884,tonnes,3417438.3538017096,4825907.401107867,Disposal (Full)
+2027,True,low,4088019.929005544,tonnes,3208593.6025432996,4967446.255467788,Disposal (Full)
+2028,True,low,4059884.8080860893,tonnes,3026180.681706177,5093588.934466002,Disposal (Full)
+2029,True,low,4034645.5369325117,tonnes,2863594.3571267626,5205696.716738261,Disposal (Full)
+2030,True,low,4010954.0656601056,tonnes,2716154.9770628037,5305753.154257408,Disposal (Full)
+2001,False,high,1102490.0,tonnes,,,Garbage
+2002,False,high,1057040.0,tonnes,,,Garbage
+2003,False,high,1062190.0,tonnes,,,Garbage
+2004,False,high,1023700.0,tonnes,,,Garbage
+2005,False,high,1023240.0,tonnes,,,Garbage
+2006,False,high,999680.0,tonnes,,,Garbage
+2007,False,high,1013040.0,tonnes,,,Garbage
+2008,False,high,1024660.0000000001,tonnes,,,Garbage
+2009,False,high,1056520.0,tonnes,,,Garbage
+2010,False,high,1089160.0,tonnes,,,Garbage
+2011,False,high,1224590.0,tonnes,,,Garbage
+2012,False,high,1216260.0,tonnes,,,Garbage
+2013,False,high,1231960.0,tonnes,,,Garbage
+2014,False,high,1316570.0,tonnes,,,Garbage
+2015,False,high,1332410.0,tonnes,,,Garbage
+2016,False,high,1377480.0,tonnes,,,Garbage
+2017,False,high,1384690.0,tonnes,,,Garbage
+2018,False,high,1359660.0,tonnes,,,Garbage
+2019,False,high,1420830.0,tonnes,,,Garbage
+2020,False,high,1427330.0,tonnes,,,Garbage
+2021,False,high,1254990.0,tonnes,,,Garbage
+2022,False,high,1294550.0,tonnes,,,Garbage
+2023,False,high,1093350.0,tonnes,,,Garbage
+2024,True,high,1180657.5211956925,tonnes,,,Garbage
+2025,True,high,1189309.0947374413,tonnes,,,Garbage
+2026,True,high,1197960.6682791882,tonnes,,,Garbage
+2027,True,high,1206612.241820936,tonnes,,,Garbage
+2028,True,high,1235570.6834882773,tonnes,,,Garbage
+2029,True,high,1268590.498780734,tonnes,,,Garbage
+2030,True,high,1301610.3140731908,tonnes,,,Garbage
+2001,False,high,354840.0,tonnes,,,Recycling
+2002,False,high,397050.0,tonnes,,,Recycling
+2003,False,high,431450.0,tonnes,,,Recycling
+2004,False,high,496420.0,tonnes,,,Recycling
+2005,False,high,536510.0,tonnes,,,Recycling
+2006,False,high,561250.0,tonnes,,,Recycling
+2007,False,high,618050.0,tonnes,,,Recycling
+2008,False,high,628750.0,tonnes,,,Recycling
+2009,False,high,638100.0,tonnes,,,Recycling
+2010,False,high,648050.0,tonnes,,,Recycling
+2011,False,high,639400.0,tonnes,,,Recycling
+2012,False,high,618620.0,tonnes,,,Recycling
+2013,False,high,611070.0,tonnes,,,Recycling
+2014,False,high,610160.0,tonnes,,,Recycling
+2015,False,high,609260.0,tonnes,,,Recycling
+2016,False,high,613120.0,tonnes,,,Recycling
+2017,False,high,624330.0,tonnes,,,Recycling
+2018,False,high,581590.0,tonnes,,,Recycling
+2019,False,high,588910.0,tonnes,,,Recycling
+2020,False,high,614440.0,tonnes,,,Recycling
+2021,False,high,565270.0,tonnes,,,Recycling
+2022,False,high,535830.0,tonnes,,,Recycling
+2023,False,high,527300.0,tonnes,,,Recycling
+2024,True,high,520493.1288281397,tonnes,476004.89521095774,564981.3624453215,Recycling
+2025,True,high,512591.095383988,tonnes,429778.87393494684,595403.316833029,Recycling
+2026,True,high,510162.78623095306,tonnes,391990.02770686225,628335.544755044,Recycling
+2027,True,high,510854.6089519065,tonnes,360758.3032321484,660950.9146716646,Recycling
+2028,True,high,513324.9689891948,tonnes,334483.2111703115,692166.726808078,Recycling
+2029,True,high,516809.13072248327,tonnes,311948.95684477274,721669.3046001937,Recycling
+2030,True,high,520871.1796158409,tonnes,292270.42875647114,749471.9304752107,Recycling
+2019,False,low,2330.0,tonnes,,,Glass
+2020,False,low,6610.0,tonnes,,,Glass
+2021,False,low,10920.0,tonnes,,,Glass
+2022,False,low,12630.0,tonnes,,,Glass
+2023,False,low,16460.0,tonnes,,,Glass
+2024,True,low,23058.926827172323,tonnes,20145.083111714874,25972.770542629776,Glass
+2025,True,low,30432.220904950394,tonnes,27518.377189492945,33346.064620407844,Glass
+2026,True,low,37805.238466372226,tonnes,34891.39475091477,40719.082181829675,Glass
+2027,True,low,46231.853334386775,tonnes,43318.009618929325,49145.69704984423,Glass
+2028,True,low,53604.809161650184,tonnes,50690.965446192735,56518.65287710763,Glass
+2029,True,low,60977.7684873791,tonnes,58063.92477192165,63891.61220283656,Glass
+2030,True,low,66243.47099406095,tonnes,63329.6272786035,69157.31470951838,Glass
+2001,False,high,0.0,tonnes,,,FOGO
+2002,False,high,0.0,tonnes,,,FOGO
+2003,False,high,6290.0,tonnes,,,FOGO
+2004,False,high,6330.0,tonnes,,,FOGO
+2005,False,high,6540.0,tonnes,,,FOGO
+2006,False,high,8010.0,tonnes,,,FOGO
+2007,False,high,6470.0,tonnes,,,FOGO
+2008,False,high,7510.0,tonnes,,,FOGO
+2009,False,high,9370.0,tonnes,,,FOGO
+2010,False,high,11290.0,tonnes,,,FOGO
+2011,False,high,10340.0,tonnes,,,FOGO
+2012,False,high,10590.0,tonnes,,,FOGO
+2013,False,high,10660.0,tonnes,,,FOGO
+2014,False,high,14700.0,tonnes,,,FOGO
+2015,False,high,46710.0,tonnes,,,FOGO
+2016,False,high,68290.0,tonnes,,,FOGO
+2017,False,high,84120.0,tonnes,,,FOGO
+2018,False,high,85450.0,tonnes,,,FOGO
+2019,False,high,254550.0,tonnes,,,FOGO
+2020,False,high,425140.0,tonnes,,,FOGO
+2021,False,high,484550.0,tonnes,,,FOGO
+2022,False,high,498890.0,tonnes,,,FOGO
+2023,False,high,636660.0,tonnes,,,FOGO
+2024,True,high,706223.2337155833,tonnes,661380.8623725626,751065.6050586039,FOGO
+2025,True,high,785612.0322562768,tonnes,716282.8230541724,854941.2414583812,FOGO
+2026,True,high,865234.8432494015,tonnes,777164.1476615317,953305.5388372715,FOGO
+2027,True,high,944839.3789903211,tonnes,841232.3627687589,1048446.3952118831,FOGO
+2028,True,high,960109.4336424565,tonnes,842988.0439701237,1077230.8233147894,FOGO
+2029,True,high,962480.6851431981,tonnes,833247.0626796269,1091714.3076067693,FOGO
+2030,True,high,964845.3449764875,tonnes,824540.6757219458,1105150.0142310292,FOGO
+2001,False,high,109550.0,tonnes,,,GO
+2002,False,high,127590.0,tonnes,,,GO
+2003,False,high,162340.0,tonnes,,,GO
+2004,False,high,220330.0,tonnes,,,GO
+2005,False,high,231860.0,tonnes,,,GO
+2006,False,high,218680.0,tonnes,,,GO
+2007,False,high,236520.0,tonnes,,,GO
+2008,False,high,243970.0,tonnes,,,GO
+2009,False,high,295860.0,tonnes,,,GO
+2010,False,high,369510.0,tonnes,,,GO
+2011,False,high,376970.0,tonnes,,,GO
+2012,False,high,350700.0,tonnes,,,GO
+2013,False,high,373540.0,tonnes,,,GO
+2014,False,high,359760.0,tonnes,,,GO
+2015,False,high,341040.0,tonnes,,,GO
+2016,False,high,388060.0,tonnes,,,GO
+2017,False,high,361760.0,tonnes,,,GO
+2018,False,high,350930.0,tonnes,,,GO
+2019,False,high,306430.0,tonnes,,,GO
+2020,False,high,206070.0,tonnes,,,GO
+2021,False,high,120880.0,tonnes,,,GO
+2022,False,high,148280.0,tonnes,,,GO
+2023,False,high,81690.0,tonnes,,,GO
+2024,True,high,55161.8443252616,tonnes,0.0,131829.7986432581,GO
+2025,True,high,32335.74597929272,tonnes,0.0,140760.60677520427,GO
+2026,True,high,12695.075971704015,tonnes,0.0,145487.86816284366,GO
+2027,True,high,0.0,tonnes,0.0,153335.908635993,GO
+2028,True,high,0.0,tonnes,0.0,171434.75755088872,GO
+2029,True,high,0.0,tonnes,0.0,187797.3677021017,GO
+2030,True,high,0.0,tonnes,0.0,202844.34065347942,GO
+2001,False,high,53310.0,tonnes,,,Hard Waste
+2002,False,high,54520.0,tonnes,,,Hard Waste
+2003,False,high,67935.0,tonnes,,,Hard Waste
+2004,False,high,81350.0,tonnes,,,Hard Waste
+2005,False,high,71350.0,tonnes,,,Hard Waste
+2006,False,high,62900.0,tonnes,,,Hard Waste
+2007,False,high,60680.0,tonnes,,,Hard Waste
+2008,False,high,66330.0,tonnes,,,Hard Waste
+2009,False,high,71150.0,tonnes,,,Hard Waste
+2010,False,high,78480.0,tonnes,,,Hard Waste
+2011,False,high,79580.0,tonnes,,,Hard Waste
+2012,False,high,96800.0,tonnes,,,Hard Waste
+2013,False,high,84660.0,tonnes,,,Hard Waste
+2014,False,high,98310.0,tonnes,,,Hard Waste
+2015,False,high,94370.0,tonnes,,,Hard Waste
+2016,False,high,103400.0,tonnes,,,Hard Waste
+2017,False,high,108260.0,tonnes,,,Hard Waste
+2018,False,high,104390.0,tonnes,,,Hard Waste
+2019,False,high,112040.0,tonnes,,,Hard Waste
+2020,False,high,113720.0,tonnes,,,Hard Waste
+2021,False,high,111700.0,tonnes,,,Hard Waste
+2022,False,high,110180.0,tonnes,,,Hard Waste
+2023,False,high,130490.00000000001,tonnes,,,Hard Waste
+2024,True,high,124178.89725453746,tonnes,109446.26822880816,138911.52628026676,Hard Waste
+2025,True,high,127219.76994136248,tonnes,112487.14091534032,141952.39896738465,Hard Waste
+2026,True,high,130260.6426281875,tonnes,115528.01360187247,144993.27165450255,Hard Waste
+2027,True,high,133301.5153150125,tonnes,118568.88628840464,148034.1443416204,Hard Waste
+2028,True,high,136342.38800183753,tonnes,121609.75897493679,151075.0170287383,Hard Waste
+2029,True,high,139383.2606886626,tonnes,124650.63166146896,154115.88971585617,Hard Waste
+2030,True,high,142424.1333754876,tonnes,127691.50434800114,157156.76240297407,Hard Waste
+2001,False,high,331360.0,tonnes,,,Actual Recycled
+2002,False,high,370330.0,tonnes,,,Actual Recycled
+2003,False,high,393920.0,tonnes,,,Actual Recycled
+2004,False,high,445080.0,tonnes,,,Actual Recycled
+2005,False,high,474980.0,tonnes,,,Actual Recycled
+2006,False,high,505190.0,tonnes,,,Actual Recycled
+2007,False,high,542160.0,tonnes,,,Actual Recycled
+2008,False,high,554710.0,tonnes,,,Actual Recycled
+2009,False,high,565960.0,tonnes,,,Actual Recycled
+2010,False,high,570760.0,tonnes,,,Actual Recycled
+2011,False,high,575050.0,tonnes,,,Actual Recycled
+2012,False,high,564480.0,tonnes,,,Actual Recycled
+2013,False,high,555380.0,tonnes,,,Actual Recycled
+2014,False,high,556490.0,tonnes,,,Actual Recycled
+2015,False,high,558970.0,tonnes,,,Actual Recycled
+2016,False,high,552340.0,tonnes,,,Actual Recycled
+2017,False,high,521690.00000000006,tonnes,,,Actual Recycled
+2018,False,high,505590.0,tonnes,,,Actual Recycled
+2019,False,high,496240.0,tonnes,,,Actual Recycled
+2020,False,high,505820.0,tonnes,,,Actual Recycled
+2021,False,high,445700.0,tonnes,,,Actual Recycled
+2022,False,high,425060.0,tonnes,,,Actual Recycled
+2023,False,high,411460.0,tonnes,,,Actual Recycled
+2024,True,high,406738.06715678377,tonnes,383303.7097918005,430172.424521767,Actual Recycled
+2025,True,high,400314.15540792904,tonnes,369546.9177703628,431081.39304549526,Actual Recycled
+2026,True,high,398186.02042853634,tonnes,361714.27273224347,434657.7681248292,Actual Recycled
+2027,True,high,398440.9097247399,tonnes,357365.66996287106,439516.1494866088,Actual Recycled
+2028,True,high,400065.96450063644,tonnes,355111.9551167202,445019.97388455266,Actual Recycled
+2029,True,high,402474.7216107015,tonnes,354177.61543416715,450771.8277872359,Actual Recycled
+2030,True,high,405333.8061073894,tonnes,354109.9982417405,456557.6139730382,Actual Recycled
+2001,False,high,106890.0,tonnes,,,Organics Processed
+2002,False,high,123900.0,tonnes,,,Organics Processed
+2003,False,high,158350.0,tonnes,,,Organics Processed
+2004,False,high,214220.0,tonnes,,,Organics Processed
+2005,False,high,234100.0,tonnes,,,Organics Processed
+2006,False,high,222250.0,tonnes,,,Organics Processed
+2007,False,high,240520.0,tonnes,,,Organics Processed
+2008,False,high,240620.0,tonnes,,,Organics Processed
+2009,False,high,295240.0,tonnes,,,Organics Processed
+2010,False,high,364810.0,tonnes,,,Organics Processed
+2011,False,high,375510.0,tonnes,,,Organics Processed
+2012,False,high,349930.0,tonnes,,,Organics Processed
+2013,False,high,375980.0,tonnes,,,Organics Processed
+2014,False,high,372770.0,tonnes,,,Organics Processed
+2015,False,high,384970.0,tonnes,,,Organics Processed
+2016,False,high,456090.0,tonnes,,,Organics Processed
+2017,False,high,445640.0,tonnes,,,Organics Processed
+2018,False,high,436320.0,tonnes,,,Organics Processed
+2019,False,high,558790.0,tonnes,,,Organics Processed
+2020,False,high,629090.0,tonnes,,,Organics Processed
+2021,False,high,587730.0,tonnes,,,Organics Processed
+2022,False,high,629360.0,tonnes,,,Organics Processed
+2023,False,high,697030.0,tonnes,,,Organics Processed
+2024,True,high,724306.14101343,tonnes,647592.3303623463,801019.9516645137,Organics Processed
+2025,True,high,751582.2820268599,tonnes,643092.5705827757,860071.9934709442,Organics Processed
+2026,True,high,778858.4230402899,tonnes,645986.2053503944,911730.6407301856,Organics Processed
+2027,True,high,806134.56405372,tonnes,652706.9427515524,959562.1853558874,Organics Processed
+2028,True,high,833410.70506715,tonnes,661873.4096382794,1004948.0004960205,Organics Processed
+2029,True,high,860686.8460805799,tonnes,672777.1537609394,1048596.5384002205,Organics Processed
+2030,True,high,887962.9870940099,tonnes,684997.3219871443,1090928.6522008753,Organics Processed
+2015,False,low,2367030.0,tonnes,,,Total Organics Generation
+2016,False,low,2456490.0,tonnes,,,Total Organics Generation
+2017,False,low,2529530.0,tonnes,,,Total Organics Generation
+2018,False,low,2530130.0,tonnes,,,Total Organics Generation
+2019,False,low,2924330.0,tonnes,,,Total Organics Generation
+2020,False,low,3321920.0,tonnes,,,Total Organics Generation
+2021,False,low,2974610.0,tonnes,,,Total Organics Generation
+2022,False,low,3058460.0,tonnes,,,Total Organics Generation
+2023,False,low,3075560.0,tonnes,,,Total Organics Generation
+2024,True,low,3159619.3879137454,tonnes,2716848.832092304,3602389.943735187,Total Organics Generation
+2025,True,low,3245976.237329277,tonnes,2611189.3506632415,3880763.1239953134,Total Organics Generation
+2026,True,low,3334693.341106301,tonnes,2546449.858183464,4122936.824029138,Total Organics Generation
+2027,True,low,3425835.208321845,tonnes,2502904.432653234,4348765.983990456,Total Organics Generation
+2028,True,low,3519468.1111769006,tonnes,2473024.0672794436,4565912.155074358,Total Organics Generation
+2029,True,low,3615660.1331850803,tonnes,2453004.9134064694,4778315.352963692,Total Organics Generation
+2030,True,low,3714481.2186783464,tonnes,2440623.2575294115,4988339.179827281,Total Organics Generation
+2015,False,low,1549030.0,tonnes,,,Disposal Organics
+2016,False,low,1579010.0,tonnes,,,Disposal Organics
+2017,False,low,1641980.0,tonnes,,,Disposal Organics
+2018,False,low,1652910.0,tonnes,,,Disposal Organics
+2019,False,low,1716820.0,tonnes,,,Disposal Organics
+2020,False,low,1658570.0,tonnes,,,Disposal Organics
+2021,False,low,1564350.0,tonnes,,,Disposal Organics
+2022,False,low,1571690.0,tonnes,,,Disposal Organics
+2023,False,low,1493920.0,tonnes,,,Disposal Organics
+2024,True,low,1502728.2186068017,tonnes,1430900.5313814252,1574555.905832178,Disposal Organics
+2025,True,low,1481947.9823569693,tonnes,1410120.295131593,1553775.6695823458,Disposal Organics
+2026,True,low,1461806.9204025576,tonnes,1389979.233177181,1533634.607627934,Disposal Organics
+2027,True,low,1442322.5022775833,tonnes,1370494.815052207,1514150.1895029598,Disposal Organics
+2028,True,low,1460317.9318380367,tonnes,1388490.2446126603,1532145.619063413,Disposal Organics
+2029,True,low,1486367.441117739,tonnes,1414539.7538923626,1558195.1283431153,Disposal Organics
+2030,True,low,1513128.920186847,tonnes,1441301.2329614705,1584956.6074122232,Disposal Organics
+2001,False,high,0.0,Count,,,FOGO Adoption
+2002,False,high,0.0,Count,,,FOGO Adoption
+2003,False,high,1.0,Count,,,FOGO Adoption
+2004,False,high,1.0,Count,,,FOGO Adoption
+2005,False,high,1.0,Count,,,FOGO Adoption
+2006,False,high,1.0,Count,,,FOGO Adoption
+2007,False,high,2.0,Count,,,FOGO Adoption
+2008,False,high,2.0,Count,,,FOGO Adoption
+2009,False,high,3.0,Count,,,FOGO Adoption
+2010,False,high,3.0,Count,,,FOGO Adoption
+2011,False,high,3.0,Count,,,FOGO Adoption
+2012,False,high,3.0,Count,,,FOGO Adoption
+2013,False,high,5.0,Count,,,FOGO Adoption
+2014,False,high,7.0,Count,,,FOGO Adoption
+2015,False,high,14.0,Count,,,FOGO Adoption
+2016,False,high,16.0,Count,,,FOGO Adoption
+2017,False,high,19.0,Count,,,FOGO Adoption
+2018,False,high,19.0,Count,,,FOGO Adoption
+2019,False,high,32.0,Count,,,FOGO Adoption
+2020,False,high,40.0,Count,,,FOGO Adoption
+2021,False,high,46.0,Count,,,FOGO Adoption
+2022,False,high,48.0,Count,,,FOGO Adoption
+2023,False,high,55.0,Count,,,FOGO Adoption
+2024,True,high,60.0,Count,53.1231354132577,66.51816127455061,FOGO Adoption
+2025,True,high,66.0,Count,54.05387345260061,78.13537882234908,FOGO Adoption
+2026,True,high,72.0,Count,52.72594174809417,91.24172341510955,FOGO Adoption
+2027,True,high,78.0,Count,51.23486728260974,105.60178980887699,FOGO Adoption
+2028,True,high,79.0,Count,48.81062506273702,121.04439974932251,FOGO Adoption
+2029,True,high,79.0,Count,45.95649245861159,137.54251542365844,FOGO Adoption
+2030,True,high,79.0,Count,42.53023782610902,154.99739595861968,FOGO Adoption
+2001,False,low,0.0,,,,Glass Adoption
+2002,False,low,0.0,,,,Glass Adoption
+2003,False,low,0.0,,,,Glass Adoption
+2004,False,low,0.0,,,,Glass Adoption
+2005,False,low,0.0,,,,Glass Adoption
+2006,False,low,0.0,,,,Glass Adoption
+2007,False,low,0.0,,,,Glass Adoption
+2008,False,low,0.0,,,,Glass Adoption
+2009,False,low,0.0,,,,Glass Adoption
+2010,False,low,0.0,,,,Glass Adoption
+2011,False,low,0.0,,,,Glass Adoption
+2012,False,low,0.0,,,,Glass Adoption
+2013,False,low,0.0,,,,Glass Adoption
+2014,False,low,0.0,,,,Glass Adoption
+2015,False,low,0.0,,,,Glass Adoption
+2016,False,low,0.0,,,,Glass Adoption
+2017,False,low,0.0,,,,Glass Adoption
+2018,False,low,0.0,,,,Glass Adoption
+2019,False,low,4.0,,,,Glass Adoption
+2020,False,low,6.0,,,,Glass Adoption
+2021,False,low,8.0,,,,Glass Adoption
+2022,False,low,13.0,,,,Glass Adoption
+2023,False,low,16.0,,,,Glass Adoption
+2024,True,low,22.0,,,,Glass Adoption
+2025,True,low,29.0,,,,Glass Adoption
+2026,True,low,36.0,,,,Glass Adoption
+2027,True,low,44.0,,,,Glass Adoption
+2028,True,low,51.0,,,,Glass Adoption
+2029,True,low,58.0,,,,Glass Adoption
+2030,True,low,63.0,,,,Glass Adoption
+2001,False,low,0.0,,,,Glass Adoption Optimistic
+2002,False,low,0.0,,,,Glass Adoption Optimistic
+2003,False,low,0.0,,,,Glass Adoption Optimistic
+2004,False,low,0.0,,,,Glass Adoption Optimistic
+2005,False,low,0.0,,,,Glass Adoption Optimistic
+2006,False,low,0.0,,,,Glass Adoption Optimistic
+2007,False,low,0.0,,,,Glass Adoption Optimistic
+2008,False,low,0.0,,,,Glass Adoption Optimistic
+2009,False,low,0.0,,,,Glass Adoption Optimistic
+2010,False,low,0.0,,,,Glass Adoption Optimistic
+2011,False,low,0.0,,,,Glass Adoption Optimistic
+2012,False,low,0.0,,,,Glass Adoption Optimistic
+2013,False,low,0.0,,,,Glass Adoption Optimistic
+2014,False,low,0.0,,,,Glass Adoption Optimistic
+2015,False,low,0.0,,,,Glass Adoption Optimistic
+2016,False,low,0.0,,,,Glass Adoption Optimistic
+2017,False,low,0.0,,,,Glass Adoption Optimistic
+2018,False,low,0.0,,,,Glass Adoption Optimistic
+2019,False,low,4.0,,,,Glass Adoption Optimistic
+2020,False,low,6.0,,,,Glass Adoption Optimistic
+2021,False,low,8.0,,,,Glass Adoption Optimistic
+2022,False,low,13.0,,,,Glass Adoption Optimistic
+2023,False,low,16.0,,,,Glass Adoption Optimistic
+2024,True,low,29.0,,,,Glass Adoption Optimistic
+2025,True,low,38.0,,,,Glass Adoption Optimistic
+2026,True,low,47.0,,,,Glass Adoption Optimistic
+2027,True,low,57.0,,,,Glass Adoption Optimistic
+2028,True,low,66.0,,,,Glass Adoption Optimistic
+2029,True,low,75.0,,,,Glass Adoption Optimistic
+2030,True,low,79.0,,,,Glass Adoption Optimistic
+2001,False,low,0.0,,,,Glass Adoption Pessimistic
+2002,False,low,0.0,,,,Glass Adoption Pessimistic
+2003,False,low,0.0,,,,Glass Adoption Pessimistic
+2004,False,low,0.0,,,,Glass Adoption Pessimistic
+2005,False,low,0.0,,,,Glass Adoption Pessimistic
+2006,False,low,0.0,,,,Glass Adoption Pessimistic
+2007,False,low,0.0,,,,Glass Adoption Pessimistic
+2008,False,low,0.0,,,,Glass Adoption Pessimistic
+2009,False,low,0.0,,,,Glass Adoption Pessimistic
+2010,False,low,0.0,,,,Glass Adoption Pessimistic
+2011,False,low,0.0,,,,Glass Adoption Pessimistic
+2012,False,low,0.0,,,,Glass Adoption Pessimistic
+2013,False,low,0.0,,,,Glass Adoption Pessimistic
+2014,False,low,0.0,,,,Glass Adoption Pessimistic
+2015,False,low,0.0,,,,Glass Adoption Pessimistic
+2016,False,low,0.0,,,,Glass Adoption Pessimistic
+2017,False,low,0.0,,,,Glass Adoption Pessimistic
+2018,False,low,0.0,,,,Glass Adoption Pessimistic
+2019,False,low,4.0,,,,Glass Adoption Pessimistic
+2020,False,low,6.0,,,,Glass Adoption Pessimistic
+2021,False,low,8.0,,,,Glass Adoption Pessimistic
+2022,False,low,13.0,,,,Glass Adoption Pessimistic
+2023,False,low,16.0,,,,Glass Adoption Pessimistic
+2024,True,low,18.0,,,,Glass Adoption Pessimistic
+2025,True,low,23.0,,,,Glass Adoption Pessimistic
+2026,True,low,29.0,,,,Glass Adoption Pessimistic
+2027,True,low,35.0,,,,Glass Adoption Pessimistic
+2028,True,low,41.0,,,,Glass Adoption Pessimistic
+2029,True,low,46.0,,,,Glass Adoption Pessimistic
+2030,True,low,50.0,,,,Glass Adoption Pessimistic
+2015,False,low,0.6642039775161295,%,,,Diversion Rate Optimistic
+2016,False,low,0.667225604199322,%,,,Diversion Rate Optimistic
+2017,False,low,0.6871865862846385,%,,,Diversion Rate Optimistic
+2018,False,low,0.6926242865748342,%,,,Diversion Rate Optimistic
+2019,False,low,0.6925284222007803,%,,,Diversion Rate Optimistic
+2020,False,low,0.7032402028281332,%,,,Diversion Rate Optimistic
+2021,False,low,0.6865214620223349,%,,,Diversion Rate Optimistic
+2022,False,low,0.687658116916116,%,,,Diversion Rate Optimistic
+2023,False,low,0.6953403783746559,%,,,Diversion Rate Optimistic
+2024,False,low,0.7299103499883375,%,,,Diversion Rate Optimistic
+2025,False,low,0.7377379788997986,%,,,Diversion Rate Optimistic
+2026,False,low,0.7439874308889665,%,,,Diversion Rate Optimistic
+2027,False,low,0.7494004360231883,%,,,Diversion Rate Optimistic
+2028,False,low,0.7551003790769073,%,,,Diversion Rate Optimistic
+2029,False,low,0.7606592053260599,%,,,Diversion Rate Optimistic
+2030,False,low,0.7660239358728184,%,,,Diversion Rate Optimistic
+2015,False,low,0.6642039775161295,%,,,Diversion Rate Pessimistic
+2016,False,low,0.667225604199322,%,,,Diversion Rate Pessimistic
+2017,False,low,0.6871865862846385,%,,,Diversion Rate Pessimistic
+2018,False,low,0.6926242865748342,%,,,Diversion Rate Pessimistic
+2019,False,low,0.6925284222007803,%,,,Diversion Rate Pessimistic
+2020,False,low,0.7032402028281332,%,,,Diversion Rate Pessimistic
+2021,False,low,0.6865214620223349,%,,,Diversion Rate Pessimistic
+2022,False,low,0.687658116916116,%,,,Diversion Rate Pessimistic
+2023,False,low,0.6953403783746559,%,,,Diversion Rate Pessimistic
+2024,False,low,0.6920942037377368,%,,,Diversion Rate Pessimistic
+2025,False,low,0.7009337806495718,%,,,Diversion Rate Pessimistic
+2026,False,low,0.7082227628404786,%,,,Diversion Rate Pessimistic
+2027,False,low,0.7146673427523476,%,,,Diversion Rate Pessimistic
+2028,False,low,0.7201532835818095,%,,,Diversion Rate Pessimistic
+2029,False,low,0.7252566470931858,%,,,Diversion Rate Pessimistic
+2030,False,low,0.7301669817623241,%,,,Diversion Rate Pessimistic

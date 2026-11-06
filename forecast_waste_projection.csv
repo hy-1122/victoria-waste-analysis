@@ -1,0 +1,311 @@
+start_year,category,subcategory,state,label,unit,method,actual,fitted,lower_ci,upper_ci,is_forecast,reliability,data_vintage
+2001,Total,All,Victoria,Total Waste (kt),kt,derived,1620.19,0.0,,,False,derived,Victoria data current through 2023; 2024-2030 are forecast years
+2002,Total,All,Victoria,Total Waste (kt),kt,derived,1636.2,0.0,,,False,derived,Victoria data current through 2023; 2024-2030 are forecast years
+2003,Total,All,Victoria,Total Waste (kt),kt,derived,1662.27,1684.0642,,,False,derived,Victoria data current through 2023; 2024-2030 are forecast years
+2004,Total,All,Victoria,Total Waste (kt),kt,derived,1828.13,1726.3473,,,False,derived,Victoria data current through 2023; 2024-2030 are forecast years
+2005,Total,All,Victoria,Total Waste (kt),kt,derived,1869.5,1874.6046,,,False,derived,Victoria data current through 2023; 2024-2030 are forecast years
+2006,Total,All,Victoria,Total Waste (kt),kt,derived,1850.52,1907.9812,,,False,derived,Victoria data current through 2023; 2024-2030 are forecast years
+2007,Total,All,Victoria,Total Waste (kt),kt,derived,1934.76,1889.7369,,,False,derived,Victoria data current through 2023; 2024-2030 are forecast years
+2008,Total,All,Victoria,Total Waste (kt),kt,derived,1971.22,1989.2569,,,False,derived,Victoria data current through 2023; 2024-2030 are forecast years
+2009,Total,All,Victoria,Total Waste (kt),kt,derived,2071.0,2009.3989,,,False,derived,Victoria data current through 2023; 2024-2030 are forecast years
+2010,Total,All,Victoria,Total Waste (kt),kt,derived,2196.49,2098.6596,,,False,derived,Victoria data current through 2023; 2024-2030 are forecast years
+2011,Total,All,Victoria,Total Waste (kt),kt,derived,2330.88,2233.3415,,,False,derived,Victoria data current through 2023; 2024-2030 are forecast years
+2012,Total,All,Victoria,Total Waste (kt),kt,derived,2292.97,2360.6561,,,False,derived,Victoria data current through 2023; 2024-2030 are forecast years
+2013,Total,All,Victoria,Total Waste (kt),kt,derived,2311.89,2321.3911,,,False,derived,Victoria data current through 2023; 2024-2030 are forecast years
+2014,Total,All,Victoria,Total Waste (kt),kt,derived,2399.5,2353.3701,,,False,derived,Victoria data current through 2023; 2024-2030 are forecast years
+2015,Total,All,Victoria,Total Waste (kt),kt,derived,2423.78,2380.3728,,,False,derived,Victoria data current through 2023; 2024-2030 are forecast years
+2016,Total,All,Victoria,Total Waste (kt),kt,derived,2550.36,2453.9346,,,False,derived,Victoria data current through 2023; 2024-2030 are forecast years
+2017,Total,All,Victoria,Total Waste (kt),kt,derived,2563.16,2742.3195,,,False,derived,Victoria data current through 2023; 2024-2030 are forecast years
+2018,Total,All,Victoria,Total Waste (kt),kt,derived,2482.02,2588.1132,,,False,derived,Victoria data current through 2023; 2024-2030 are forecast years
+2019,Total,All,Victoria,Total Waste (kt),kt,derived,2685.09,2631.5236,,,False,derived,Victoria data current through 2023; 2024-2030 are forecast years
+2020,Total,All,Victoria,Total Waste (kt),kt,derived,2793.31,2796.4973,,,False,derived,Victoria data current through 2023; 2024-2030 are forecast years
+2021,Total,All,Victoria,Total Waste (kt),kt,derived,2548.31,2876.0078,,,False,derived,Victoria data current through 2023; 2024-2030 are forecast years
+2022,Total,All,Victoria,Total Waste (kt),kt,derived,2600.36,2517.6685,,,False,derived,Victoria data current through 2023; 2024-2030 are forecast years
+2023,Total,All,Victoria,Total Waste (kt),kt,derived,2485.95,2640.1563,,,False,derived,Victoria data current through 2023; 2024-2030 are forecast years
+2024,Total,All,Victoria,Total Waste (kt),kt,derived,,2508.1506,2444.6427,2571.6585,True,derived,Victoria data current through 2023; 2024-2030 are forecast years
+2025,Total,All,Victoria,Total Waste (kt),kt,derived,,2524.3573,2435.61,2615.7015,True,derived,Victoria data current through 2023; 2024-2030 are forecast years
+2026,Total,All,Victoria,Total Waste (kt),kt,derived,,2549.602,2448.4911,2661.9528,True,derived,Victoria data current through 2023; 2024-2030 are forecast years
+2027,Total,All,Victoria,Total Waste (kt),kt,derived,,2586.6235,2471.4592,2716.5006,True,derived,Victoria data current through 2023; 2024-2030 are forecast years
+2028,Total,All,Victoria,Total Waste (kt),kt,derived,,2610.9493,2482.0856,2756.2575,True,derived,Victoria data current through 2023; 2024-2030 are forecast years
+2029,Total,All,Victoria,Total Waste (kt),kt,derived,,2615.7331,2474.4548,2775.0124,True,derived,Victoria data current through 2023; 2024-2030 are forecast years
+2030,Total,All,Victoria,Total Waste (kt),kt,derived,,2623.2442,2470.5301,2795.3884,True,derived,Victoria data current through 2023; 2024-2030 are forecast years
+2001,Garbage,Collected,Victoria,Garbage Collected (kt),kt,arima,1102.49,,,,False,high,Victoria data current through 2023; 2024-2030 are forecast years
+2002,Garbage,Collected,Victoria,Garbage Collected (kt),kt,arima,1057.04,,,,False,high,Victoria data current through 2023; 2024-2030 are forecast years
+2003,Garbage,Collected,Victoria,Garbage Collected (kt),kt,arima,1062.19,1058.775,917.7837,1199.7664,False,high,Victoria data current through 2023; 2024-2030 are forecast years
+2004,Garbage,Collected,Victoria,Garbage Collected (kt),kt,arima,1023.7,1063.925,922.9337,1204.9164,False,high,Victoria data current through 2023; 2024-2030 are forecast years
+2005,Garbage,Collected,Victoria,Garbage Collected (kt),kt,arima,1023.24,1025.435,884.4437,1166.4264,False,high,Victoria data current through 2023; 2024-2030 are forecast years
+2006,Garbage,Collected,Victoria,Garbage Collected (kt),kt,arima,999.68,1024.975,883.9837,1165.9664,False,high,Victoria data current through 2023; 2024-2030 are forecast years
+2007,Garbage,Collected,Victoria,Garbage Collected (kt),kt,arima,1013.04,1001.415,860.4237,1142.4064,False,high,Victoria data current through 2023; 2024-2030 are forecast years
+2008,Garbage,Collected,Victoria,Garbage Collected (kt),kt,arima,1024.66,1014.775,873.7837,1155.7664,False,high,Victoria data current through 2023; 2024-2030 are forecast years
+2009,Garbage,Collected,Victoria,Garbage Collected (kt),kt,arima,1056.52,1026.395,885.4037,1167.3864,False,high,Victoria data current through 2023; 2024-2030 are forecast years
+2010,Garbage,Collected,Victoria,Garbage Collected (kt),kt,arima,1089.16,1058.255,917.2637,1199.2464,False,high,Victoria data current through 2023; 2024-2030 are forecast years
+2011,Garbage,Collected,Victoria,Garbage Collected (kt),kt,arima,1224.59,1090.895,949.9037,1231.8864,False,high,Victoria data current through 2023; 2024-2030 are forecast years
+2012,Garbage,Collected,Victoria,Garbage Collected (kt),kt,arima,1216.26,1226.325,1085.3337,1367.3164,False,high,Victoria data current through 2023; 2024-2030 are forecast years
+2013,Garbage,Collected,Victoria,Garbage Collected (kt),kt,arima,1231.96,1217.995,1077.0037,1358.9864,False,high,Victoria data current through 2023; 2024-2030 are forecast years
+2014,Garbage,Collected,Victoria,Garbage Collected (kt),kt,arima,1316.57,1233.695,1092.7037,1374.6864,False,high,Victoria data current through 2023; 2024-2030 are forecast years
+2015,Garbage,Collected,Victoria,Garbage Collected (kt),kt,arima,1332.41,1318.305,1177.3137,1459.2964,False,high,Victoria data current through 2023; 2024-2030 are forecast years
+2016,Garbage,Collected,Victoria,Garbage Collected (kt),kt,arima,1377.48,1334.145,1193.1537,1475.1364,False,high,Victoria data current through 2023; 2024-2030 are forecast years
+2017,Garbage,Collected,Victoria,Garbage Collected (kt),kt,arima,1384.69,1379.215,1238.2237,1520.2064,False,high,Victoria data current through 2023; 2024-2030 are forecast years
+2018,Garbage,Collected,Victoria,Garbage Collected (kt),kt,arima,1359.66,1386.425,1245.4337,1527.4164,False,high,Victoria data current through 2023; 2024-2030 are forecast years
+2019,Garbage,Collected,Victoria,Garbage Collected (kt),kt,arima,1420.83,1361.395,1220.4037,1502.3864,False,high,Victoria data current through 2023; 2024-2030 are forecast years
+2020,Garbage,Collected,Victoria,Garbage Collected (kt),kt,arima,1427.33,1422.565,1281.5737,1563.5564,False,high,Victoria data current through 2023; 2024-2030 are forecast years
+2021,Garbage,Collected,Victoria,Garbage Collected (kt),kt,arima,1254.99,1429.065,1288.0737,1570.0564,False,high,Victoria data current through 2023; 2024-2030 are forecast years
+2022,Garbage,Collected,Victoria,Garbage Collected (kt),kt,arima,1294.55,1256.725,1115.7337,1397.7164,False,high,Victoria data current through 2023; 2024-2030 are forecast years
+2023,Garbage,Collected,Victoria,Garbage Collected (kt),kt,arima,1093.35,1296.285,1155.2937,1437.2764,False,high,Victoria data current through 2023; 2024-2030 are forecast years
+2024,Garbage,Collected,Victoria,Garbage Collected (kt),kt,arima,,1095.085,954.0937,1236.0764,True,high,Victoria data current through 2023; 2024-2030 are forecast years
+2025,Garbage,Collected,Victoria,Garbage Collected (kt),kt,arima,,1096.8201,897.4282,1296.212,True,high,Victoria data current through 2023; 2024-2030 are forecast years
+2026,Garbage,Collected,Victoria,Garbage Collected (kt),kt,arima,,1098.5551,854.3509,1342.7593,True,high,Victoria data current through 2023; 2024-2030 are forecast years
+2027,Garbage,Collected,Victoria,Garbage Collected (kt),kt,arima,,1100.2902,818.3075,1382.2729,True,high,Victoria data current through 2023; 2024-2030 are forecast years
+2028,Garbage,Collected,Victoria,Garbage Collected (kt),kt,arima,,1102.0252,786.7589,1417.2915,True,high,Victoria data current through 2023; 2024-2030 are forecast years
+2029,Garbage,Collected,Victoria,Garbage Collected (kt),kt,arima,,1103.7602,758.4034,1449.1171,True,high,Victoria data current through 2023; 2024-2030 are forecast years
+2030,Garbage,Collected,Victoria,Garbage Collected (kt),kt,arima,,1105.4953,732.4672,1478.5233,True,high,Victoria data current through 2023; 2024-2030 are forecast years
+2001,Recycling,Collected,Victoria,Recycling Collected (kt),kt,arima,354.84,,,,False,high,Victoria data current through 2023; 2024-2030 are forecast years
+2002,Recycling,Collected,Victoria,Recycling Collected (kt),kt,arima,397.05,,,,False,high,Victoria data current through 2023; 2024-2030 are forecast years
+2003,Recycling,Collected,Victoria,Recycling Collected (kt),kt,arima,431.45,419.2143,370.6416,467.7869,False,high,Victoria data current through 2023; 2024-2030 are forecast years
+2004,Recycling,Collected,Victoria,Recycling Collected (kt),kt,arima,496.42,449.9031,401.3305,498.4758,False,high,Victoria data current through 2023; 2024-2030 are forecast years
+2005,Recycling,Collected,Victoria,Recycling Collected (kt),kt,arima,536.51,529.3993,480.8267,577.9719,False,high,Victoria data current through 2023; 2024-2030 are forecast years
+2006,Recycling,Collected,Victoria,Recycling Collected (kt),kt,arima,561.25,557.6669,509.0943,606.2395,False,high,Victoria data current through 2023; 2024-2030 are forecast years
+2007,Recycling,Collected,Victoria,Recycling Collected (kt),kt,arima,618.05,575.1129,526.5403,623.6855,False,high,Victoria data current through 2023; 2024-2030 are forecast years
+2008,Recycling,Collected,Victoria,Recycling Collected (kt),kt,arima,628.75,647.1471,598.5745,695.7197,False,high,Victoria data current through 2023; 2024-2030 are forecast years
+2009,Recycling,Collected,Victoria,Recycling Collected (kt),kt,arima,638.1,635.9414,587.3688,684.5141,False,high,Victoria data current through 2023; 2024-2030 are forecast years
+2010,Recycling,Collected,Victoria,Recycling Collected (kt),kt,arima,648.05,644.6499,596.0773,693.2226,False,high,Victoria data current through 2023; 2024-2030 are forecast years
+2011,Recycling,Collected,Victoria,Recycling Collected (kt),kt,arima,639.4,654.885,606.3124,703.4577,False,high,Victoria data current through 2023; 2024-2030 are forecast years
+2012,Recycling,Collected,Victoria,Recycling Collected (kt),kt,arima,618.62,637.3967,588.8241,685.9694,False,high,Victoria data current through 2023; 2024-2030 are forecast years
+2013,Recycling,Collected,Victoria,Recycling Collected (kt),kt,arima,611.07,610.8528,562.2802,659.4255,False,high,Victoria data current through 2023; 2024-2030 are forecast years
+2014,Recycling,Collected,Victoria,Recycling Collected (kt),kt,arima,610.16,609.5894,561.0168,658.1621,False,high,Victoria data current through 2023; 2024-2030 are forecast years
+2015,Recycling,Collected,Victoria,Recycling Collected (kt),kt,arima,609.26,611.8346,563.262,660.4072,False,high,Victoria data current through 2023; 2024-2030 are forecast years
+2016,Recycling,Collected,Victoria,Recycling Collected (kt),kt,arima,613.12,610.9394,562.3667,659.512,False,high,Victoria data current through 2023; 2024-2030 are forecast years
+2017,Recycling,Collected,Victoria,Recycling Collected (kt),kt,arima,624.33,617.0612,568.4886,665.6338,False,high,Victoria data current through 2023; 2024-2030 are forecast years
+2018,Recycling,Collected,Victoria,Recycling Collected (kt),kt,arima,581.59,631.7638,583.1911,680.3364,False,high,Victoria data current through 2023; 2024-2030 are forecast years
+2019,Recycling,Collected,Victoria,Recycling Collected (kt),kt,arima,588.91,563.3879,514.8153,611.9606,False,high,Victoria data current through 2023; 2024-2030 are forecast years
+2020,Recycling,Collected,Victoria,Recycling Collected (kt),kt,arima,614.44,594.4953,545.9227,643.068,False,high,Victoria data current through 2023; 2024-2030 are forecast years
+2021,Recycling,Collected,Victoria,Recycling Collected (kt),kt,arima,565.27,628.6783,580.1057,677.2509,False,high,Victoria data current through 2023; 2024-2030 are forecast years
+2022,Recycling,Collected,Victoria,Recycling Collected (kt),kt,arima,535.83,544.0125,495.4399,592.5852,False,high,Victoria data current through 2023; 2024-2030 are forecast years
+2023,Recycling,Collected,Victoria,Recycling Collected (kt),kt,arima,527.3,523.9478,475.3752,572.5204,False,high,Victoria data current through 2023; 2024-2030 are forecast years
+2024,Recycling,Collected,Victoria,Recycling Collected (kt),kt,arima,,525.3538,476.7811,573.9264,True,high,Victoria data current through 2023; 2024-2030 are forecast years
+2025,Recycling,Collected,Victoria,Recycling Collected (kt),kt,arima,,526.536,439.9711,613.1009,True,high,Victoria data current through 2023; 2024-2030 are forecast years
+2026,Recycling,Collected,Victoria,Recycling Collected (kt),kt,arima,,529.2048,409.54,648.8695,True,high,Victoria data current through 2023; 2024-2030 are forecast years
+2027,Recycling,Collected,Victoria,Recycling Collected (kt),kt,arima,,532.58,384.141,681.019,True,high,Victoria data current through 2023; 2024-2030 are forecast years
+2028,Recycling,Collected,Victoria,Recycling Collected (kt),kt,arima,,536.2908,362.5388,710.0428,True,high,Victoria data current through 2023; 2024-2030 are forecast years
+2029,Recycling,Collected,Victoria,Recycling Collected (kt),kt,arima,,540.1611,343.7959,736.5263,True,high,Victoria data current through 2023; 2024-2030 are forecast years
+2030,Recycling,Collected,Victoria,Recycling Collected (kt),kt,arima,,544.1073,327.2399,760.9746,True,high,Victoria data current through 2023; 2024-2030 are forecast years
+2001,Recycling,Recycled,Victoria,Recycling Recycled (kt),kt,arima,331.36,,,,False,high,Victoria data current through 2023; 2024-2030 are forecast years
+2002,Recycling,Recycled,Victoria,Recycling Recycled (kt),kt,arima,370.33,,,,False,high,Victoria data current through 2023; 2024-2030 are forecast years
+2003,Recycling,Recycled,Victoria,Recycling Recycled (kt),kt,arima,393.92,392.9475,356.185,429.7101,False,high,Victoria data current through 2023; 2024-2030 are forecast years
+2004,Recycling,Recycled,Victoria,Recycling Recycled (kt),kt,arima,445.08,407.1254,370.3628,443.8879,False,high,Victoria data current through 2023; 2024-2030 are forecast years
+2005,Recycling,Recycled,Victoria,Recycling Recycled (kt),kt,arima,474.98,474.89,438.1275,511.6526,False,high,Victoria data current through 2023; 2024-2030 are forecast years
+2006,Recycling,Recycled,Victoria,Recycling Recycled (kt),kt,arima,505.19,491.7872,455.0247,528.5498,False,high,Victoria data current through 2023; 2024-2030 are forecast years
+2007,Recycling,Recycled,Victoria,Recycling Recycled (kt),kt,arima,542.16,522.0991,485.3365,558.8616,False,high,Victoria data current through 2023; 2024-2030 are forecast years
+2008,Recycling,Recycled,Victoria,Recycling Recycled (kt),kt,arima,554.71,563.0705,526.308,599.8331,False,high,Victoria data current through 2023; 2024-2030 are forecast years
+2009,Recycling,Recycled,Victoria,Recycling Recycled (kt),kt,arima,565.96,560.7474,523.9849,597.51,False,high,Victoria data current through 2023; 2024-2030 are forecast years
+2010,Recycling,Recycled,Victoria,Recycling Recycled (kt),kt,arima,570.76,571.1754,534.4128,607.9379,False,high,Victoria data current through 2023; 2024-2030 are forecast years
+2011,Recycling,Recycled,Victoria,Recycling Recycled (kt),kt,arima,575.05,572.0427,535.2802,608.8053,False,high,Victoria data current through 2023; 2024-2030 are forecast years
+2012,Recycling,Recycled,Victoria,Recycling Recycled (kt),kt,arima,564.48,576.0106,539.248,612.7731,False,high,Victoria data current through 2023; 2024-2030 are forecast years
+2013,Recycling,Recycled,Victoria,Recycling Recycled (kt),kt,arima,554.12,556.4421,519.6796,593.2047,False,high,Victoria data current through 2023; 2024-2030 are forecast years
+2014,Recycling,Recycled,Victoria,Recycling Recycled (kt),kt,arima,556.16,546.2394,509.4768,583.0019,False,high,Victoria data current through 2023; 2024-2030 are forecast years
+2015,Recycling,Recycled,Victoria,Recycling Recycled (kt),kt,arima,558.97,555.8076,519.045,592.5701,False,high,Victoria data current through 2023; 2024-2030 are forecast years
+2016,Recycling,Recycled,Victoria,Recycling Recycled (kt),kt,arima,552.34,559.0774,522.3148,595.8399,False,high,Victoria data current through 2023; 2024-2030 are forecast years
+2017,Recycling,Recycled,Victoria,Recycling Recycled (kt),kt,arima,521.69,546.7308,509.9682,583.4933,False,high,Victoria data current through 2023; 2024-2030 are forecast years
+2018,Recycling,Recycled,Victoria,Recycling Recycled (kt),kt,arima,505.59,501.5743,464.8118,538.3369,False,high,Victoria data current through 2023; 2024-2030 are forecast years
+2019,Recycling,Recycled,Victoria,Recycling Recycled (kt),kt,arima,496.24,494.3608,457.5982,531.1233,False,high,Victoria data current through 2023; 2024-2030 are forecast years
+2020,Recycling,Recycled,Victoria,Recycling Recycled (kt),kt,arima,504.2,489.1387,452.3762,525.9013,False,high,Victoria data current through 2023; 2024-2030 are forecast years
+2021,Recycling,Recycled,Victoria,Recycling Recycled (kt),kt,arima,445.7,507.5932,470.8306,544.3557,False,high,Victoria data current through 2023; 2024-2030 are forecast years
+2022,Recycling,Recycled,Victoria,Recycling Recycled (kt),kt,arima,425.06,408.8806,372.1181,445.6432,False,high,Victoria data current through 2023; 2024-2030 are forecast years
+2023,Recycling,Recycled,Victoria,Recycling Recycled (kt),kt,arima,411.46,411.3028,374.5403,448.0654,False,high,Victoria data current through 2023; 2024-2030 are forecast years
+2024,Recycling,Recycled,Victoria,Recycling Recycled (kt),kt,arima,,402.0191,365.2566,438.7817,True,high,Victoria data current through 2023; 2024-2030 are forecast years
+2025,Recycling,Recycled,Victoria,Recycling Recycled (kt),kt,arima,,395.1323,325.6217,464.643,True,high,Victoria data current through 2023; 2024-2030 are forecast years
+2026,Recycling,Recycled,Victoria,Recycling Recycled (kt),kt,arima,,389.817,289.4993,490.1348,True,high,Victoria data current through 2023; 2024-2030 are forecast years
+2027,Recycling,Recycled,Victoria,Recycling Recycled (kt),kt,arima,,385.4718,257.018,513.9256,True,high,Victoria data current through 2023; 2024-2030 are forecast years
+2028,Recycling,Recycled,Victoria,Recycling Recycled (kt),kt,arima,,381.7284,227.8094,535.6473,True,high,Victoria data current through 2023; 2024-2030 are forecast years
+2029,Recycling,Recycled,Victoria,Recycling Recycled (kt),kt,arima,,378.3613,201.3932,555.3293,True,high,Victoria data current through 2023; 2024-2030 are forecast years
+2030,Recycling,Recycled,Victoria,Recycling Recycled (kt),kt,arima,,375.2325,177.3154,573.1496,True,high,Victoria data current through 2023; 2024-2030 are forecast years
+2001,Recycling,Glass,Victoria,Recycling Glass (kt),kt,arima,89.37,,,,False,high,Victoria data current through 2023; 2024-2030 are forecast years
+2002,Recycling,Glass,Victoria,Recycling Glass (kt),kt,arima,99.13,,,,False,high,Victoria data current through 2023; 2024-2030 are forecast years
+2003,Recycling,Glass,Victoria,Recycling Glass (kt),kt,arima,88.93,98.2376,63.7637,132.7115,False,high,Victoria data current through 2023; 2024-2030 are forecast years
+2004,Recycling,Glass,Victoria,Recycling Glass (kt),kt,arima,81.57,91.3338,59.0918,123.5759,False,high,Victoria data current through 2023; 2024-2030 are forecast years
+2005,Recycling,Glass,Victoria,Recycling Glass (kt),kt,arima,109.23,84.6304,52.7209,116.5399,False,high,Victoria data current through 2023; 2024-2030 are forecast years
+2006,Recycling,Glass,Victoria,Recycling Glass (kt),kt,arima,96.01,98.1741,66.3206,130.0277,False,high,Victoria data current through 2023; 2024-2030 are forecast years
+2007,Recycling,Glass,Victoria,Recycling Glass (kt),kt,arima,96.08,96.0162,64.1722,127.8601,False,high,Victoria data current through 2023; 2024-2030 are forecast years
+2008,Recycling,Glass,Victoria,Recycling Glass (kt),kt,arima,105.52,95.1623,63.32,127.0046,False,high,Victoria data current through 2023; 2024-2030 are forecast years
+2009,Recycling,Glass,Victoria,Recycling Glass (kt),kt,arima,111.18,100.3308,68.4888,132.1729,False,high,Victoria data current through 2023; 2024-2030 are forecast years
+2010,Recycling,Glass,Victoria,Recycling Glass (kt),kt,arima,119.21,105.7868,73.9449,137.6288,False,high,Victoria data current through 2023; 2024-2030 are forecast years
+2011,Recycling,Glass,Victoria,Recycling Glass (kt),kt,arima,119.12,112.7487,80.9068,144.5907,False,high,Victoria data current through 2023; 2024-2030 are forecast years
+2012,Recycling,Glass,Victoria,Recycling Glass (kt),kt,arima,124.56,115.585,83.743,147.4269,False,high,Victoria data current through 2023; 2024-2030 are forecast years
+2013,Recycling,Glass,Victoria,Recycling Glass (kt),kt,arima,118.21,119.9445,88.1025,151.7865,False,high,Victoria data current through 2023; 2024-2030 are forecast years
+2014,Recycling,Glass,Victoria,Recycling Glass (kt),kt,arima,120.8,118.0385,86.1966,149.8805,False,high,Victoria data current through 2023; 2024-2030 are forecast years
+2015,Recycling,Glass,Victoria,Recycling Glass (kt),kt,arima,120.39,118.7629,86.9209,150.6048,False,high,Victoria data current through 2023; 2024-2030 are forecast years
+2016,Recycling,Glass,Victoria,Recycling Glass (kt),kt,arima,116.64,118.8236,86.9816,150.6656,False,high,Victoria data current through 2023; 2024-2030 are forecast years
+2017,Recycling,Glass,Victoria,Recycling Glass (kt),kt,arima,129.85,116.6549,84.8129,148.4968,False,high,Victoria data current through 2023; 2024-2030 are forecast years
+2018,Recycling,Glass,Victoria,Recycling Glass (kt),kt,arima,98.5,123.4833,91.6414,155.3253,False,high,Victoria data current through 2023; 2024-2030 are forecast years
+2019,Recycling,Glass,Victoria,Recycling Glass (kt),kt,arima,107.5,107.9758,76.1339,139.8178,False,high,Victoria data current through 2023; 2024-2030 are forecast years
+2020,Recycling,Glass,Victoria,Recycling Glass (kt),kt,arima,109.99,106.8062,74.9643,138.6482,False,high,Victoria data current through 2023; 2024-2030 are forecast years
+2021,Recycling,Glass,Victoria,Recycling Glass (kt),kt,arima,,,,,False,high,Victoria data current through 2023; 2024-2030 are forecast years
+2022,Recycling,Glass,Victoria,Recycling Glass (kt),kt,arima,53.36,107.7776,75.9357,139.6196,False,high,Victoria data current through 2023; 2024-2030 are forecast years
+2023,Recycling,Glass,Victoria,Recycling Glass (kt),kt,arima,75.6,75.0499,43.2079,106.8918,False,high,Victoria data current through 2023; 2024-2030 are forecast years
+2024,Recycling,Glass,Victoria,Recycling Glass (kt),kt,arima,,74.4805,42.6385,106.3225,True,high,Victoria data current through 2023; 2024-2030 are forecast years
+2025,Recycling,Glass,Victoria,Recycling Glass (kt),kt,arima,,73.5893,36.6983,110.4803,True,high,Victoria data current through 2023; 2024-2030 are forecast years
+2026,Recycling,Glass,Victoria,Recycling Glass (kt),kt,arima,,72.6981,31.3704,114.0258,True,high,Victoria data current through 2023; 2024-2030 are forecast years
+2027,Recycling,Glass,Victoria,Recycling Glass (kt),kt,arima,,71.8068,26.4746,117.1391,True,high,Victoria data current through 2023; 2024-2030 are forecast years
+2028,Recycling,Glass,Victoria,Recycling Glass (kt),kt,arima,,70.9156,21.9049,119.9263,True,high,Victoria data current through 2023; 2024-2030 are forecast years
+2029,Recycling,Glass,Victoria,Recycling Glass (kt),kt,arima,,70.0244,17.5927,122.4561,True,high,Victoria data current through 2023; 2024-2030 are forecast years
+2030,Recycling,Glass,Victoria,Recycling Glass (kt),kt,arima,,69.1332,13.4904,124.7759,True,high,Victoria data current through 2023; 2024-2030 are forecast years
+2003,Organics,FOGO,Victoria,Organics FOGO (kt),kt,arimax,6.29,,,,False,high,Victoria data current through 2023; 2024-2030 are forecast years
+2004,Organics,FOGO,Victoria,Organics FOGO (kt),kt,arimax,6.33,,,,False,high,Victoria data current through 2023; 2024-2030 are forecast years
+2005,Organics,FOGO,Victoria,Organics FOGO (kt),kt,arimax,6.54,7.5224,-33.8456,48.8905,False,high,Victoria data current through 2023; 2024-2030 are forecast years
+2006,Organics,FOGO,Victoria,Organics FOGO (kt),kt,arimax,8.01,7.7147,-33.6534,49.0828,False,high,Victoria data current through 2023; 2024-2030 are forecast years
+2007,Organics,FOGO,Victoria,Organics FOGO (kt),kt,arimax,6.47,19.3742,-21.9939,60.7423,False,high,Victoria data current through 2023; 2024-2030 are forecast years
+2008,Organics,FOGO,Victoria,Organics FOGO (kt),kt,arimax,7.51,7.557,-33.811,48.9251,False,high,Victoria data current through 2023; 2024-2030 are forecast years
+2009,Organics,FOGO,Victoria,Organics FOGO (kt),kt,arimax,9.37,21.9784,-19.3897,63.3464,False,high,Victoria data current through 2023; 2024-2030 are forecast years
+2010,Organics,FOGO,Victoria,Organics FOGO (kt),kt,arimax,11.29,13.558,-27.81,54.9261,False,high,Victoria data current through 2023; 2024-2030 are forecast years
+2011,Organics,FOGO,Victoria,Organics FOGO (kt),kt,arimax,10.34,17.6371,-23.731,59.0052,False,high,Victoria data current through 2023; 2024-2030 are forecast years
+2012,Organics,FOGO,Victoria,Organics FOGO (kt),kt,arimax,10.59,16.2132,-25.1548,57.5813,False,high,Victoria data current through 2023; 2024-2030 are forecast years
+2013,Organics,FOGO,Victoria,Organics FOGO (kt),kt,arimax,10.66,37.2959,-4.0722,78.664,False,high,Victoria data current through 2023; 2024-2030 are forecast years
+2014,Organics,FOGO,Victoria,Organics FOGO (kt),kt,arimax,14.7,38.0037,-3.3644,79.3718,False,high,Victoria data current through 2023; 2024-2030 are forecast years
+2015,Organics,FOGO,Victoria,Organics FOGO (kt),kt,arimax,6.63,-13.7481,-55.1162,27.62,False,high,Victoria data current through 2023; 2024-2030 are forecast years
+2016,Organics,FOGO,Victoria,Organics FOGO (kt),kt,arimax,6.94,22.593,-18.7751,63.9611,False,high,Victoria data current through 2023; 2024-2030 are forecast years
+2017,Organics,FOGO,Victoria,Organics FOGO (kt),kt,arimax,84.12,178.8841,137.516,220.2522,False,high,Victoria data current through 2023; 2024-2030 are forecast years
+2018,Organics,FOGO,Victoria,Organics FOGO (kt),kt,arimax,85.45,94.2596,52.8915,135.6276,False,high,Victoria data current through 2023; 2024-2030 are forecast years
+2019,Organics,FOGO,Victoria,Organics FOGO (kt),kt,arimax,254.55,252.474,211.1059,293.8421,False,high,Victoria data current through 2023; 2024-2030 are forecast years
+2020,Organics,FOGO,Victoria,Organics FOGO (kt),kt,arimax,425.14,368.5373,327.1693,409.9054,False,high,Victoria data current through 2023; 2024-2030 are forecast years
+2021,Organics,FOGO,Victoria,Organics FOGO (kt),kt,arimax,484.55,506.2105,464.8425,547.5786,False,high,Victoria data current through 2023; 2024-2030 are forecast years
+2022,Organics,FOGO,Victoria,Organics FOGO (kt),kt,arimax,498.89,501.2494,459.8814,542.6175,False,high,Victoria data current through 2023; 2024-2030 are forecast years
+2023,Organics,FOGO,Victoria,Organics FOGO (kt),kt,arimax,636.66,567.9034,526.5353,609.2715,False,high,Victoria data current through 2023; 2024-2030 are forecast years
+2024,Organics,FOGO,Victoria,Organics FOGO (kt),kt,arimax,,688.5963,647.2282,729.9643,True,high,Victoria data current through 2023; 2024-2030 are forecast years
+2025,Organics,FOGO,Victoria,Organics FOGO (kt),kt,arimax,,723.3283,665.8194,780.8371,True,high,Victoria data current through 2023; 2024-2030 are forecast years
+2026,Organics,FOGO,Victoria,Organics FOGO (kt),kt,arimax,,759.7407,695.9223,823.5591,True,high,Victoria data current through 2023; 2024-2030 are forecast years
+2027,Organics,FOGO,Victoria,Organics FOGO (kt),kt,arimax,,802.3138,736.4757,868.1519,True,high,Victoria data current through 2023; 2024-2030 are forecast years
+2028,Organics,FOGO,Victoria,Organics FOGO (kt),kt,arimax,,819.507,753.1441,885.8699,True,high,Victoria data current through 2023; 2024-2030 are forecast years
+2029,Organics,FOGO,Victoria,Organics FOGO (kt),kt,arimax,,815.6837,749.2135,882.1539,True,high,Victoria data current through 2023; 2024-2030 are forecast years
+2030,Organics,FOGO,Victoria,Organics FOGO (kt),kt,arimax,,813.9739,747.4879,880.4599,True,high,Victoria data current through 2023; 2024-2030 are forecast years
+2001,Organics,GO,Victoria,Organics GO (kt),kt,ets,109.55,,,,False,high,Victoria data current through 2023; 2024-2030 are forecast years
+2002,Organics,GO,Victoria,Organics GO (kt),kt,ets,127.59,,,,False,high,Victoria data current through 2023; 2024-2030 are forecast years
+2003,Organics,GO,Victoria,Organics GO (kt),kt,ets,162.34,154.2513,66.9923,241.5103,False,high,Victoria data current through 2023; 2024-2030 are forecast years
+2004,Organics,GO,Victoria,Organics GO (kt),kt,ets,220.33,184.8121,97.553,272.0711,False,high,Victoria data current through 2023; 2024-2030 are forecast years
+2005,Organics,GO,Victoria,Organics GO (kt),kt,ets,231.86,244.4695,157.2105,331.7285,False,high,Victoria data current through 2023; 2024-2030 are forecast years
+2006,Organics,GO,Victoria,Organics GO (kt),kt,ets,218.68,253.5694,166.3104,340.8284,False,high,Victoria data current through 2023; 2024-2030 are forecast years
+2007,Organics,GO,Victoria,Organics GO (kt),kt,ets,236.52,231.8241,144.5651,319.0832,False,high,Victoria data current through 2023; 2024-2030 are forecast years
+2008,Organics,GO,Victoria,Organics GO (kt),kt,ets,243.97,245.5696,158.3106,332.8286,False,high,Victoria data current through 2023; 2024-2030 are forecast years
+2009,Organics,GO,Victoria,Organics GO (kt),kt,ets,295.86,251.8283,164.5693,339.0873,False,high,Victoria data current through 2023; 2024-2030 are forecast years
+2010,Organics,GO,Victoria,Organics GO (kt),kt,ets,369.51,307.8826,220.6236,395.1416,False,high,Victoria data current through 2023; 2024-2030 are forecast years
+2011,Organics,GO,Victoria,Organics GO (kt),kt,ets,376.97,390.7968,303.5378,478.0559,False,high,Victoria data current through 2023; 2024-2030 are forecast years
+2012,Organics,GO,Victoria,Organics GO (kt),kt,ets,350.7,398.1288,310.8698,485.3878,False,high,Victoria data current through 2023; 2024-2030 are forecast years
+2013,Organics,GO,Victoria,Organics GO (kt),kt,ets,373.54,361.7248,274.4658,448.9838,False,high,Victoria data current through 2023; 2024-2030 are forecast years
+2014,Organics,GO,Victoria,Organics GO (kt),kt,ets,359.76,380.6993,293.4403,467.9583,False,high,Victoria data current through 2023; 2024-2030 are forecast years
+2015,Organics,GO,Victoria,Organics GO (kt),kt,ets,381.11,364.1625,276.9035,451.4216,False,high,Victoria data current through 2023; 2024-2030 are forecast years
+2016,Organics,GO,Victoria,Organics GO (kt),kt,ets,449.42,385.3321,298.0731,472.5912,False,high,Victoria data current through 2023; 2024-2030 are forecast years
+2017,Organics,GO,Victoria,Organics GO (kt),kt,ets,361.76,462.2805,375.0215,549.5396,False,high,Victoria data current through 2023; 2024-2030 are forecast years
+2018,Organics,GO,Victoria,Organics GO (kt),kt,ets,350.93,365.1835,277.9245,452.4425,False,high,Victoria data current through 2023; 2024-2030 are forecast years
+2019,Organics,GO,Victoria,Organics GO (kt),kt,ets,306.43,344.2727,257.0136,431.5317,False,high,Victoria data current through 2023; 2024-2030 are forecast years
+2020,Organics,GO,Victoria,Organics GO (kt),kt,ets,206.07,294.9669,207.7079,382.2259,False,high,Victoria data current through 2023; 2024-2030 are forecast years
+2021,Organics,GO,Victoria,Organics GO (kt),kt,ets,120.88,182.3532,95.0942,269.6122,False,high,Victoria data current through 2023; 2024-2030 are forecast years
+2022,Organics,GO,Victoria,Organics GO (kt),kt,ets,148.28,86.1913,0.0,173.4503,False,high,Victoria data current through 2023; 2024-2030 are forecast years
+2023,Organics,GO,Victoria,Organics GO (kt),kt,ets,81.69,121.7329,34.4739,208.9919,False,high,Victoria data current through 2023; 2024-2030 are forecast years
+2024,Organics,GO,Victoria,Organics GO (kt),kt,ets,,58.9687,0.0,146.2277,True,high,Victoria data current through 2023; 2024-2030 are forecast years
+2025,Organics,GO,Victoria,Organics GO (kt),kt,ets,,36.5482,0.0,159.9511,True,high,Victoria data current through 2023; 2024-2030 are forecast years
+2026,Organics,GO,Victoria,Organics GO (kt),kt,ets,,17.4898,0.0,168.6268,True,high,Victoria data current through 2023; 2024-2030 are forecast years
+2027,Organics,GO,Victoria,Organics GO (kt),kt,ets,,1.2892,0.0,175.8073,True,high,Victoria data current through 2023; 2024-2030 are forecast years
+2028,Organics,GO,Victoria,Organics GO (kt),kt,ets,,0.0,0.0,195.1171,True,high,Victoria data current through 2023; 2024-2030 are forecast years
+2029,Organics,GO,Victoria,Organics GO (kt),kt,ets,,0.0,0.0,213.7401,True,high,Victoria data current through 2023; 2024-2030 are forecast years
+2030,Organics,GO,Victoria,Organics GO (kt),kt,ets,,0.0,0.0,230.8657,True,high,Victoria data current through 2023; 2024-2030 are forecast years
+2019,Glass,Collected,Victoria,Glass Collected (kt),kt,arima,2.33,,,,False,low_short_history,Victoria data current through 2023; 2024-2030 are forecast years
+2020,Glass,Collected,Victoria,Glass Collected (kt),kt,arima,6.61,,,,False,low_short_history,Victoria data current through 2023; 2024-2030 are forecast years
+2021,Glass,Collected,Victoria,Glass Collected (kt),kt,arima,10.92,11.6551,4.7234,18.5868,False,low_short_history,Victoria data current through 2023; 2024-2030 are forecast years
+2022,Glass,Collected,Victoria,Glass Collected (kt),kt,arima,12.63,11.6551,4.7234,18.5868,False,low_short_history,Victoria data current through 2023; 2024-2030 are forecast years
+2023,Glass,Collected,Victoria,Glass Collected (kt),kt,arima,16.46,11.6551,4.7234,18.5868,False,low_short_history,Victoria data current through 2023; 2024-2030 are forecast years
+2024,Glass,Collected,Victoria,Glass Collected (kt),kt,arima,,11.6551,4.7234,18.5868,True,low_short_history,Victoria data current through 2023; 2024-2030 are forecast years
+2025,Glass,Collected,Victoria,Glass Collected (kt),kt,arima,,11.6551,4.7234,18.5868,True,low_short_history,Victoria data current through 2023; 2024-2030 are forecast years
+2026,Glass,Collected,Victoria,Glass Collected (kt),kt,arima,,11.6551,4.7234,18.5868,True,low_short_history,Victoria data current through 2023; 2024-2030 are forecast years
+2027,Glass,Collected,Victoria,Glass Collected (kt),kt,arima,,11.6551,4.7234,18.5868,True,low_short_history,Victoria data current through 2023; 2024-2030 are forecast years
+2028,Glass,Collected,Victoria,Glass Collected (kt),kt,arima,,11.6551,4.7234,18.5868,True,low_short_history,Victoria data current through 2023; 2024-2030 are forecast years
+2029,Glass,Collected,Victoria,Glass Collected (kt),kt,arima,,11.6551,4.7234,18.5868,True,low_short_history,Victoria data current through 2023; 2024-2030 are forecast years
+2030,Glass,Collected,Victoria,Glass Collected (kt),kt,arima,,11.6551,4.7234,18.5868,True,low_short_history,Victoria data current through 2023; 2024-2030 are forecast years
+2001,Hard Waste,Collected,Victoria,Hard Waste Collected (kt),kt,arima,53.31,,,,False,high,Victoria data current through 2023; 2024-2030 are forecast years
+2002,Hard Waste,Collected,Victoria,Hard Waste Collected (kt),kt,arima,54.52,,,,False,high,Victoria data current through 2023; 2024-2030 are forecast years
+2003,Hard Waste,Collected,Victoria,Hard Waste Collected (kt),kt,arima,0.0,51.8235,-1968.0682,2071.7152,False,high,Victoria data current through 2023; 2024-2030 are forecast years
+2004,Hard Waste,Collected,Victoria,Hard Waste Collected (kt),kt,arima,81.35,27.7071,-224.1027,279.5169,False,high,Victoria data current through 2023; 2024-2030 are forecast years
+2005,Hard Waste,Collected,Victoria,Hard Waste Collected (kt),kt,arima,71.35,67.7783,55.3724,80.1842,False,high,Victoria data current through 2023; 2024-2030 are forecast years
+2006,Hard Waste,Collected,Victoria,Hard Waste Collected (kt),kt,arima,62.9,64.0552,51.6493,76.4611,False,high,Victoria data current through 2023; 2024-2030 are forecast years
+2007,Hard Waste,Collected,Victoria,Hard Waste Collected (kt),kt,arima,60.68,62.0106,49.6047,74.4165,False,high,Victoria data current through 2023; 2024-2030 are forecast years
+2008,Hard Waste,Collected,Victoria,Hard Waste Collected (kt),kt,arima,66.33,74.2081,61.8022,86.6139,False,high,Victoria data current through 2023; 2024-2030 are forecast years
+2009,Hard Waste,Collected,Victoria,Hard Waste Collected (kt),kt,arima,71.15,73.2557,60.8498,85.6616,False,high,Victoria data current through 2023; 2024-2030 are forecast years
+2010,Hard Waste,Collected,Victoria,Hard Waste Collected (kt),kt,arima,78.48,74.314,61.9081,86.7199,False,high,Victoria data current through 2023; 2024-2030 are forecast years
+2011,Hard Waste,Collected,Victoria,Hard Waste Collected (kt),kt,arima,79.58,79.1275,66.7216,91.5333,False,high,Victoria data current through 2023; 2024-2030 are forecast years
+2012,Hard Waste,Collected,Victoria,Hard Waste Collected (kt),kt,arima,96.8,82.5923,70.1864,94.9981,False,high,Victoria data current through 2023; 2024-2030 are forecast years
+2013,Hard Waste,Collected,Victoria,Hard Waste Collected (kt),kt,arima,84.66,93.5225,81.1166,105.9284,False,high,Victoria data current through 2023; 2024-2030 are forecast years
+2014,Hard Waste,Collected,Victoria,Hard Waste Collected (kt),kt,arima,98.31,91.3827,78.9768,103.7885,False,high,Victoria data current through 2023; 2024-2030 are forecast years
+2015,Hard Waste,Collected,Victoria,Hard Waste Collected (kt),kt,arima,94.37,99.8187,87.4128,112.2246,False,high,Victoria data current through 2023; 2024-2030 are forecast years
+2016,Hard Waste,Collected,Victoria,Hard Waste Collected (kt),kt,arima,103.4,100.9251,88.5192,113.331,False,high,Victoria data current through 2023; 2024-2030 are forecast years
+2017,Hard Waste,Collected,Victoria,Hard Waste Collected (kt),kt,arima,108.26,104.8786,92.4727,117.2845,False,high,Victoria data current through 2023; 2024-2030 are forecast years
+2018,Hard Waste,Collected,Victoria,Hard Waste Collected (kt),kt,arima,104.39,110.4814,98.0755,122.8873,False,high,Victoria data current through 2023; 2024-2030 are forecast years
+2019,Hard Waste,Collected,Victoria,Hard Waste Collected (kt),kt,arima,112.04,109.994,97.5881,122.3999,False,high,Victoria data current through 2023; 2024-2030 are forecast years
+2020,Hard Waste,Collected,Victoria,Hard Waste Collected (kt),kt,arima,113.72,115.9327,103.5268,128.3386,False,high,Victoria data current through 2023; 2024-2030 are forecast years
+2021,Hard Waste,Collected,Victoria,Hard Waste Collected (kt),kt,arima,111.7,118.0456,105.6397,130.4515,False,high,Victoria data current through 2023; 2024-2030 are forecast years
+2022,Hard Waste,Collected,Victoria,Hard Waste Collected (kt),kt,arima,110.18,117.8351,105.4292,130.241,False,high,Victoria data current through 2023; 2024-2030 are forecast years
+2023,Hard Waste,Collected,Victoria,Hard Waste Collected (kt),kt,arima,130.49,118.6321,106.2262,131.0379,False,high,Victoria data current through 2023; 2024-2030 are forecast years
+2024,Hard Waste,Collected,Victoria,Hard Waste Collected (kt),kt,arima,,128.4918,116.0859,140.8976,True,high,Victoria data current through 2023; 2024-2030 are forecast years
+2025,Hard Waste,Collected,Victoria,Hard Waste Collected (kt),kt,arima,,129.4697,115.6205,143.3189,True,high,Victoria data current through 2023; 2024-2030 are forecast years
+2026,Hard Waste,Collected,Victoria,Hard Waste Collected (kt),kt,arima,,132.9565,118.3426,147.5704,True,high,Victoria data current through 2023; 2024-2030 are forecast years
+2027,Hard Waste,Collected,Victoria,Hard Waste Collected (kt),kt,arima,,138.4953,122.9532,154.0374,True,high,Victoria data current through 2023; 2024-2030 are forecast years
+2028,Hard Waste,Collected,Victoria,Hard Waste Collected (kt),kt,arima,,141.4713,124.5172,158.4253,True,high,Victoria data current through 2023; 2024-2030 are forecast years
+2029,Hard Waste,Collected,Victoria,Hard Waste Collected (kt),kt,arima,,144.4729,126.4587,162.4871,True,high,Victoria data current through 2023; 2024-2030 are forecast years
+2030,Hard Waste,Collected,Victoria,Hard Waste Collected (kt),kt,arima,,148.0126,129.1015,166.9238,True,high,Victoria data current through 2023; 2024-2030 are forecast years
+2001,Diversion Rate,All,Victoria,Diversion Rate,%,derived,0.2797,0.0682,,,False,derived,Victoria data current through 2023; 2024-2030 are forecast years
+2002,Diversion Rate,All,Victoria,Diversion Rate,%,derived,0.3125,0.0783,,,False,derived,Victoria data current through 2023; 2024-2030 are forecast years
+2003,Diversion Rate,All,Victoria,Diversion Rate,%,derived,0.3322,0.3317,,,False,derived,Victoria data current through 2023; 2024-2030 are forecast years
+2004,Diversion Rate,All,Victoria,Diversion Rate,%,derived,0.3774,0.3557,,,False,derived,Victoria data current through 2023; 2024-2030 are forecast years
+2005,Diversion Rate,All,Victoria,Diversion Rate,%,derived,0.3943,0.3943,,,False,derived,Victoria data current through 2023; 2024-2030 are forecast years
+2006,Diversion Rate,All,Victoria,Diversion Rate,%,derived,0.4069,0.3994,,,False,derived,Victoria data current through 2023; 2024-2030 are forecast years
+2007,Diversion Rate,All,Victoria,Diversion Rate,%,derived,0.421,0.4102,,,False,derived,Victoria data current through 2023; 2024-2030 are forecast years
+2008,Diversion Rate,All,Victoria,Diversion Rate,%,derived,0.4221,0.4265,,,False,derived,Victoria data current through 2023; 2024-2030 are forecast years
+2009,Diversion Rate,All,Victoria,Diversion Rate,%,derived,0.4361,0.4334,,,False,derived,Victoria data current through 2023; 2024-2030 are forecast years
+2010,Diversion Rate,All,Victoria,Diversion Rate,%,derived,0.4472,0.4474,,,False,derived,Victoria data current through 2023; 2024-2030 are forecast years
+2011,Diversion Rate,All,Victoria,Diversion Rate,%,derived,0.449,0.4475,,,False,derived,Victoria data current through 2023; 2024-2030 are forecast years
+2012,Diversion Rate,All,Victoria,Diversion Rate,%,derived,0.4433,0.4489,,,False,derived,Victoria data current through 2023; 2024-2030 are forecast years
+2013,Diversion Rate,All,Victoria,Diversion Rate,%,derived,0.441,0.4421,,,False,derived,Victoria data current through 2023; 2024-2030 are forecast years
+2014,Diversion Rate,All,Victoria,Diversion Rate,%,derived,0.4372,0.4325,,,False,derived,Victoria data current through 2023; 2024-2030 are forecast years
+2015,Diversion Rate,All,Victoria,Diversion Rate,%,derived,0.4414,0.4399,,,False,derived,Victoria data current through 2023; 2024-2030 are forecast years
+2016,Diversion Rate,All,Victoria,Diversion Rate,%,derived,0.4533,0.4563,,,False,derived,Victoria data current through 2023; 2024-2030 are forecast years
+2017,Diversion Rate,All,Victoria,Diversion Rate,%,derived,0.4379,0.4492,,,False,derived,Victoria data current through 2023; 2024-2030 are forecast years
+2018,Diversion Rate,All,Victoria,Diversion Rate,%,derived,0.4316,0.4298,,,False,derived,Victoria data current through 2023; 2024-2030 are forecast years
+2019,Diversion Rate,All,Victoria,Diversion Rate,%,derived,0.4478,0.447,,,False,derived,Victoria data current through 2023; 2024-2030 are forecast years
+2020,Diversion Rate,All,Victoria,Diversion Rate,%,derived,0.4642,0.4581,,,False,derived,Victoria data current through 2023; 2024-2030 are forecast years
+2021,Diversion Rate,All,Victoria,Diversion Rate,%,derived,0.4507,0.4776,,,False,derived,Victoria data current through 2023; 2024-2030 are forecast years
+2022,Diversion Rate,All,Victoria,Diversion Rate,%,derived,0.466,0.4589,,,False,derived,Victoria data current through 2023; 2024-2030 are forecast years
+2023,Diversion Rate,All,Victoria,Diversion Rate,%,derived,0.479,0.4789,,,False,derived,Victoria data current through 2023; 2024-2030 are forecast years
+2024,Diversion Rate,All,Victoria,Diversion Rate,%,derived,,0.5114,0.4505,0.5847,True,derived,Victoria data current through 2023; 2024-2030 are forecast years
+2025,Diversion Rate,All,Victoria,Diversion Rate,%,derived,,0.5102,0.4378,0.6206,True,derived,Victoria data current through 2023; 2024-2030 are forecast years
+2026,Diversion Rate,All,Victoria,Diversion Rate,%,derived,,0.5105,0.4305,0.6483,True,derived,Victoria data current through 2023; 2024-2030 are forecast years
+2027,Diversion Rate,All,Victoria,Diversion Rate,%,derived,,0.5129,0.4277,0.672,True,derived,Victoria data current through 2023; 2024-2030 are forecast years
+2028,Diversion Rate,All,Victoria,Diversion Rate,%,derived,,0.5133,0.4181,0.691,True,derived,Victoria data current through 2023; 2024-2030 are forecast years
+2029,Diversion Rate,All,Victoria,Diversion Rate,%,derived,,0.5099,0.4047,0.7055,True,derived,Victoria data current through 2023; 2024-2030 are forecast years
+2030,Diversion Rate,All,Victoria,Diversion Rate,%,derived,,0.507,0.3928,0.7186,True,derived,Victoria data current through 2023; 2024-2030 are forecast years
+2001,Waste Per Capita,All,Victoria,Waste Per Capita (kg),kg,derived,339.4018,0.0,,,False,derived,Victoria data current through 2023; 2024-2030 are forecast years
+2002,Waste Per Capita,All,Victoria,Waste Per Capita (kg),kg,derived,337.2703,0.0,,,False,derived,Victoria data current through 2023; 2024-2030 are forecast years
+2003,Waste Per Capita,All,Victoria,Waste Per Capita (kg),kg,derived,338.6744,343.1148,,,False,derived,Victoria data current through 2023; 2024-2030 are forecast years
+2004,Waste Per Capita,All,Victoria,Waste Per Capita (kg),kg,derived,366.8232,346.4,,,False,derived,Victoria data current through 2023; 2024-2030 are forecast years
+2005,Waste Per Capita,All,Victoria,Waste Per Capita (kg),kg,derived,370.2089,371.2198,,,False,derived,Victoria data current through 2023; 2024-2030 are forecast years
+2006,Waste Per Capita,All,Victoria,Waste Per Capita (kg),kg,derived,363.0634,374.337,,,False,derived,Victoria data current through 2023; 2024-2030 are forecast years
+2007,Waste Per Capita,All,Victoria,Waste Per Capita (kg),kg,derived,372.5258,363.8569,,,False,derived,Victoria data current through 2023; 2024-2030 are forecast years
+2008,Waste Per Capita,All,Victoria,Waste Per Capita (kg),kg,derived,371.0387,374.4338,,,False,derived,Victoria data current through 2023; 2024-2030 are forecast years
+2009,Waste Per Capita,All,Victoria,Waste Per Capita (kg),kg,derived,383.6396,372.2284,,,False,derived,Victoria data current through 2023; 2024-2030 are forecast years
+2010,Waste Per Capita,All,Victoria,Waste Per Capita (kg),kg,derived,396.4392,378.782,,,False,derived,Victoria data current through 2023; 2024-2030 are forecast years
+2011,Waste Per Capita,All,Victoria,Waste Per Capita (kg),kg,derived,420.2493,402.6635,,,False,derived,Victoria data current through 2023; 2024-2030 are forecast years
+2012,Waste Per Capita,All,Victoria,Waste Per Capita (kg),kg,derived,404.5726,416.5151,,,False,derived,Victoria data current through 2023; 2024-2030 are forecast years
+2013,Waste Per Capita,All,Victoria,Waste Per Capita (kg),kg,derived,408.6291,410.3085,,,False,derived,Victoria data current through 2023; 2024-2030 are forecast years
+2014,Waste Per Capita,All,Victoria,Waste Per Capita (kg),kg,derived,408.8151,400.9558,,,False,derived,Victoria data current through 2023; 2024-2030 are forecast years
+2015,Waste Per Capita,All,Victoria,Waste Per Capita (kg),kg,derived,412.7624,405.3703,,,False,derived,Victoria data current through 2023; 2024-2030 are forecast years
+2016,Waste Per Capita,All,Victoria,Waste Per Capita (kg),kg,derived,416.5659,400.8161,,,False,derived,Victoria data current through 2023; 2024-2030 are forecast years
+2017,Waste Per Capita,All,Victoria,Waste Per Capita (kg),kg,derived,404.3787,432.6439,,,False,derived,Victoria data current through 2023; 2024-2030 are forecast years
+2018,Waste Per Capita,All,Victoria,Waste Per Capita (kg),kg,derived,381.3997,397.7025,,,False,derived,Victoria data current through 2023; 2024-2030 are forecast years
+2019,Waste Per Capita,All,Victoria,Waste Per Capita (kg),kg,derived,405.5491,397.4586,,,False,derived,Victoria data current through 2023; 2024-2030 are forecast years
+2020,Waste Per Capita,All,Victoria,Waste Per Capita (kg),kg,derived,416.0929,416.5677,,,False,derived,Victoria data current through 2023; 2024-2030 are forecast years
+2021,Waste Per Capita,All,Victoria,Waste Per Capita (kg),kg,derived,399.7343,451.1378,,,False,derived,Victoria data current through 2023; 2024-2030 are forecast years
+2022,Waste Per Capita,All,Victoria,Waste Per Capita (kg),kg,derived,402.2046,389.4145,,,False,derived,Victoria data current through 2023; 2024-2030 are forecast years
+2023,Waste Per Capita,All,Victoria,Waste Per Capita (kg),kg,derived,362.4306,384.9126,,,False,derived,Victoria data current through 2023; 2024-2030 are forecast years
+2024,Waste Per Capita,All,Victoria,Waste Per Capita (kg),kg,derived,,353.1114,344.1704,362.0524,True,derived,Victoria data current through 2023; 2024-2030 are forecast years
+2025,Waste Per Capita,All,Victoria,Waste Per Capita (kg),kg,derived,,350.5078,338.1852,363.191,True,derived,Victoria data current through 2023; 2024-2030 are forecast years
+2026,Waste Per Capita,All,Victoria,Waste Per Capita (kg),kg,derived,,349.2127,335.3638,364.6011,True,derived,Victoria data current through 2023; 2024-2030 are forecast years
+2027,Waste Per Capita,All,Victoria,Waste Per Capita (kg),kg,derived,,349.4493,333.8907,366.9955,True,derived,Victoria data current through 2023; 2024-2030 are forecast years
+2028,Waste Per Capita,All,Victoria,Waste Per Capita (kg),kg,derived,,347.8946,330.7243,367.2562,True,derived,Victoria data current through 2023; 2024-2030 are forecast years
+2029,Waste Per Capita,All,Victoria,Waste Per Capita (kg),kg,derived,,343.7231,325.1583,364.6534,True,derived,Victoria data current through 2023; 2024-2030 are forecast years
+2030,Waste Per Capita,All,Victoria,Waste Per Capita (kg),kg,derived,,339.9306,320.1413,362.2377,True,derived,Victoria data current through 2023; 2024-2030 are forecast years
